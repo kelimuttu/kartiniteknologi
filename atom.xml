@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kartini Teknologi</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://kartiniteknologi.id/"/>
+  <updated>2019-03-09T08:04:10.956Z</updated>
+  <id>http://kartiniteknologi.id/</id>
+  
+  <author>
+    <name>Kartini Teknologi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Kartini Teknologi</title>
+    <link href="http://kartiniteknologi.id/hello-world/"/>
+    <id>http://kartiniteknologi.id/hello-world/</id>
+    <published>2019-03-07T17:09:53.000Z</published>
+    <updated>2019-03-09T08:04:10.956Z</updated>
+    
+    <content type="html"><![CDATA[<p>Athazagoraphobia: the fear of forgetting, being forgotten or ignored, or being replaced. Dozywocie: parental contract with children guaranteeing lifelong support. Viraag: the emotional pain felt from being away from the person you love. Weemoed: lit. sadness, woe (wee) courage, daring, mood (moed); soft mood; light melancholy; having the strength to overcome a feeling of sorrow (e.g., arising in relation to nostalgia).. Njuta: to deeply enjoy, to profoundly appreciate.. Cynefin: a place where a person or an animal feels it ought to live and belong; it is where nature around you feels right and welcoming. Majime (真面目): reliable, responsible, diligent; seriousness, formality.. Schwärmerei: excessive or extreme enthusiasm or sentimentality..</p><p>Löyly: the steam that rises from the sauna heater when water is thrown on it. S’encoubler: to describe a fall, but specifically one where you fell due to being tangled in something. Gretchenfrage: a direct question with the intention of unveiling the underlying thoughts of the person being questioned. Nito-onna: a woman so dedicated to her career that she has no time to iron blouses, so dresses only in knitted tops.. Kucir: a tuft of hair left to grow on top of an otherwise bald head. Zažitjsja (зажиться): to keep living beyond the point where one feels they would be better off dead. Qì zhì (氣质): quality of character, disposition, style, charm, attractiveness, magnetism..</p><p>Aimonomia: being scared to learn the ‘why’ of something. Talaka: every member of a neighborhood getting together to do a work for free for a poor member of their community. Xíng qì (行氣): volitionally (e.g., mentally) circulating or directing qi.. Qualunquismo: political apathy; people who really don’t care very much about politics and related issues in society. Engili (ఎంగిలి): having contacted another’s mouth directly or indirectly via hand or utensil that is not fit for consumption.. Sankocha: the feeling of embarrassment due to receiving an inordinate or extravagent gift/favor, making you feel as though you need to return a favor that you can’t. </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Athazagoraphobia: the fear of forgetting, being forgotten or ignored, or being replaced. Dozywocie: parental contract with children guara
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Episode 1 - Kartini Teknologi</title>
+    <link href="http://kartiniteknologi.id/episode-1/"/>
+    <id>http://kartiniteknologi.id/episode-1/</id>
+    <published>2019-03-07T17:07:42.000Z</published>
+    <updated>2019-03-07T17:10:39.405Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
