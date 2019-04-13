@@ -3,109 +3,109 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>kelimuttu.github.io/kartiniteknologi/en/about/</loc>
+    <loc>/en/about/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="kelimuttu.github.io/kartiniteknologi/tentang/"
+                href="/tentang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="kelimuttu.github.io/kartiniteknologi/en/about/"
+                href="/en/about/"
                 />
   </url>
   
   <url>
-    <loc>kelimuttu.github.io/kartiniteknologi/en/episodes/0/</loc>
+    <loc>/en/episodes/0/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="kelimuttu.github.io/kartiniteknologi/episodes/0/"
+                href="/episodes/0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="kelimuttu.github.io/kartiniteknologi/en/episodes/0/"
+                href="/en/episodes/0/"
                 />
   </url>
   
   <url>
-    <loc>kelimuttu.github.io/kartiniteknologi/en/episodes/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="kelimuttu.github.io/kartiniteknologi/episodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="kelimuttu.github.io/kartiniteknologi/en/episodes/"
-                />
-  </url>
-  
-  <url>
-    <loc>kelimuttu.github.io/kartiniteknologi/en/guest-notes/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="kelimuttu.github.io/kartiniteknologi/catatan-untuk-tamu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="kelimuttu.github.io/kartiniteknologi/en/guest-notes/"
-                />
-  </url>
-  
-  <url>
-    <loc>kelimuttu.github.io/kartiniteknologi/en/</loc>
+    <loc>/en/episodes/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="kelimuttu.github.io/kartiniteknologi/"
+                href="/episodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="kelimuttu.github.io/kartiniteknologi/en/"
+                href="/en/episodes/"
                 />
   </url>
   
   <url>
-    <loc>kelimuttu.github.io/kartiniteknologi/en/categories/</loc>
-    <priority>0</priority>
+    <loc>/en/guest-notes/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="kelimuttu.github.io/kartiniteknologi/categories/"
+                href="/catatan-untuk-tamu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="kelimuttu.github.io/kartiniteknologi/en/categories/"
+                href="/en/guest-notes/"
                 />
   </url>
   
   <url>
-    <loc>kelimuttu.github.io/kartiniteknologi/en/tags/</loc>
+    <loc>/en/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="kelimuttu.github.io/kartiniteknologi/tags/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="kelimuttu.github.io/kartiniteknologi/en/tags/"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
                 />
   </url>
   

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kartini Teknologi</title>
-    <link>kelimuttu.github.io/kartiniteknologi/en/</link>
+    <link>/en/</link>
     <description>Recent content on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="kelimuttu.github.io/kartiniteknologi/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>kelimuttu.github.io/kartiniteknologi/en/about/</link>
+      <link>/en/about/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>kelimuttu.github.io/kartiniteknologi/en/about/</guid>
+      <guid>/en/about/</guid>
       <description>Indonesia needs more women in the technology industry. Technology has come to dominate people&amp;rsquo;s lives. When the creators of technology is dominated by certain groups, there will be bias which will cause disparity in the resulting products.
 We believe in the virtues of diversity. Through Kartini Teknologi, we want to encourage more Indonesian women to get involved in the technology industry. The objective is to reduce or even close the tech industry&amp;rsquo;s gender gap.</description>
     </item>
     
     <item>
       <title>Episode 0 - Introduction</title>
-      <link>kelimuttu.github.io/kartiniteknologi/en/episodes/0/</link>
+      <link>/en/episodes/0/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>kelimuttu.github.io/kartiniteknologi/en/episodes/0/</guid>
+      <guid>/en/episodes/0/</guid>
       <description> Hey all! Counting days to the Kartini&amp;rsquo;s day, when we will launch our Podcast, Kartini Teknologi, we want to introduce ourselves as the hosts. Also to tell you about why we create this podcast in the first place. Plus, to give you a sneak peek about our very first guest next week.
 Nice to meet you and see you all in the next episode!
  Transcript  EN  </description>
@@ -33,10 +33,10 @@ Nice to meet you and see you all in the next episode!
     
     <item>
       <title>Guest Notes</title>
-      <link>kelimuttu.github.io/kartiniteknologi/en/guest-notes/</link>
+      <link>/en/guest-notes/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>kelimuttu.github.io/kartiniteknologi/en/guest-notes/</guid>
+      <guid>/en/guest-notes/</guid>
       <description>Hi! Before we get started, we&amp;rsquo;d like to say thank you for being with us here at Kartini Teknologi. In this page, you can find a few things that might be helpful for you before our conversation. 🙌
 We can do our conversation in two ways: face-to-face &amp;amp; remote conversation. These notes are primarily aimed at guests who we&amp;rsquo;ll be having remote conversations with.
 What You&amp;rsquo;ll Need Being able to hear each other clearly is essential in the making of a good conversation.</description>
