@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://kartiniteknologi.id/"/>
-  <updated>2019-03-25T04:09:20.442Z</updated>
+  <updated>2019-04-13T01:28:47.448Z</updated>
   <id>http://kartiniteknologi.id/</id>
   
   <author>
@@ -17,20 +17,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello</title>
-    <link href="http://kartiniteknologi.id/hello/"/>
-    <id>http://kartiniteknologi.id/hello/</id>
-    <published>2019-03-25T04:09:00.000Z</published>
-    <updated>2019-03-25T04:09:20.442Z</updated>
+    <title>Episode 0 - Intro!</title>
+    <link href="http://kartiniteknologi.id/episode-0/"/>
+    <id>http://kartiniteknologi.id/episode-0/</id>
+    <published>2019-04-13T00:50:58.000Z</published>
+    <updated>2019-04-13T01:28:47.448Z</updated>
     
-    <content type="html"><![CDATA[<p>Coming soon!</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/img/pasted-1.png" alt="upload successful"></p><p>Halo semuanya!</p><p>Menjelang <em>launch date</em> kita di hari Kartini nanti, kita pengen ngenalin diri dulu nih sebagai <em>host</em>. Sekaligus cerita tentang tujuan kita bikin <em>podcast</em> ini, plus ngasih sedikit bocoran tentang bintang tamu kita minggu depan. </p><p>Salam kenal dan <em>see you on the next episode!</em></p><iframe src="https://anchor.fm/kartini-teknologi/embed/episodes/Episode-0-e3no2h" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Coming soon!&lt;/p&gt;
-
+        &lt;p&gt;&lt;img src=&quot;/img/pasted-1.png&quot; alt=&quot;upload successful&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Halo semuanya!&lt;/p&gt;
+&lt;p&gt;Menjelang &lt;em&gt;launch date&lt;/em&gt; kita di hari Kartini na
       
     
     </summary>
