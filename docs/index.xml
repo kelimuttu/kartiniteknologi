@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kartini Teknologi</title>
+    <link>kelimuttu.github.io/kartiniteknologi/</link>
+    <description>Recent content on Kartini Teknologi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="kelimuttu.github.io/kartiniteknologi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Catatan untuk Tamu</title>
+      <link>kelimuttu.github.io/kartiniteknologi/catatan-untuk-tamu/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>kelimuttu.github.io/kartiniteknologi/catatan-untuk-tamu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Episode 0 - Perkenalan</title>
+      <link>kelimuttu.github.io/kartiniteknologi/episodes/0/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>kelimuttu.github.io/kartiniteknologi/episodes/0/</guid>
+      <description> Halo semuanya! Menjelang tanggal peluncuran podcast Kartini Teknologi di hari Kartini nanti, kita pengen ngenalin diri dulu nih sebagai host. Sekaligus cerita tentang tujuan kita bikin podcast ini. Plus, ngasih sedikit bocoran tentang bintang tamu kita minggu depan.
+Salam kenal dan sampai ketemu di episode selanjutnya!
+ Transkrip  ID  </description>
+    </item>
+    
+    <item>
+      <title>Tentang</title>
+      <link>kelimuttu.github.io/kartiniteknologi/tentang/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>kelimuttu.github.io/kartiniteknologi/tentang/</guid>
+      <description>Indonesia butuh lebih banyak perempuan di industri teknologi. Teknologi sudah semakin mendominasi kehidupan manusia. Ketika pembuat teknologi didominasi oleh kelompok tertentu, maka akan terjadi bias yang mengakibatkan ketimpangan pada produk yang dihasilkan.
+Kami percaya pada kebaikan yang dibawa oleh keberagaman. Melalui Kartini Teknologi, kami ingin menyemangati lebih banyak perempuan Indonesia untuk terjun ke industri teknologi. Tujuan akhirnya tentu saja untuk mengurangi kesenjangan partisipasi kaum perempuan di industri ini.
+Di tiap episode, kami akan berbincang dengan sosok perempuan Indonesia inspiratif yang bekerja di industri teknologi tentang bidang yang mereka kuasai, termasuk cerita awal mula mereka bisa terjun dalam bidang tersebut.</description>
+    </item>
+    
+  </channel>
+</rss>

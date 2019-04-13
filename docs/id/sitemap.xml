@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>kelimuttu.github.io/kartiniteknologi/catatan-untuk-tamu/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="kelimuttu.github.io/kartiniteknologi/en/guest-notes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="kelimuttu.github.io/kartiniteknologi/catatan-untuk-tamu/"
+                />
+  </url>
+  
+  <url>
+    <loc>kelimuttu.github.io/kartiniteknologi/episodes/0/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="kelimuttu.github.io/kartiniteknologi/en/episodes/0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="kelimuttu.github.io/kartiniteknologi/episodes/0/"
+                />
+  </url>
+  
+  <url>
+    <loc>kelimuttu.github.io/kartiniteknologi/episodes/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="kelimuttu.github.io/kartiniteknologi/en/episodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="kelimuttu.github.io/kartiniteknologi/episodes/"
+                />
+  </url>
+  
+  <url>
+    <loc>kelimuttu.github.io/kartiniteknologi/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="kelimuttu.github.io/kartiniteknologi/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="kelimuttu.github.io/kartiniteknologi/"
+                />
+  </url>
+  
+  <url>
+    <loc>kelimuttu.github.io/kartiniteknologi/tentang/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="kelimuttu.github.io/kartiniteknologi/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="kelimuttu.github.io/kartiniteknologi/tentang/"
+                />
+  </url>
+  
+  <url>
+    <loc>kelimuttu.github.io/kartiniteknologi/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="kelimuttu.github.io/kartiniteknologi/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="kelimuttu.github.io/kartiniteknologi/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>kelimuttu.github.io/kartiniteknologi/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="kelimuttu.github.io/kartiniteknologi/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="kelimuttu.github.io/kartiniteknologi/tags/"
+                />
+  </url>
+  
+</urlset>

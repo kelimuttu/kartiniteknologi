@@ -1,5 +1,6 @@
-baseurl = "/"
+baseurl = "kelimuttu.github.io/kartiniteknologi"
 theme = "hello-friend-ng"
+publishDir = "docs"
 
 DefaultContentLanguage = "id"
 

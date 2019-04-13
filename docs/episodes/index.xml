@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Episodes on Kartini Teknologi</title>
+    <link>kelimuttu.github.io/kartiniteknologi/episodes/</link>
+    <description>Recent content in Episodes on Kartini Teknologi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="kelimuttu.github.io/kartiniteknologi/episodes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Episode 0 - Perkenalan</title>
+      <link>kelimuttu.github.io/kartiniteknologi/episodes/0/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>kelimuttu.github.io/kartiniteknologi/episodes/0/</guid>
+      <description> Halo semuanya! Menjelang tanggal peluncuran podcast Kartini Teknologi di hari Kartini nanti, kita pengen ngenalin diri dulu nih sebagai host. Sekaligus cerita tentang tujuan kita bikin podcast ini. Plus, ngasih sedikit bocoran tentang bintang tamu kita minggu depan.
+Salam kenal dan sampai ketemu di episode selanjutnya!
+ Transkrip  ID  </description>
+    </item>
+    
+  </channel>
+</rss>
