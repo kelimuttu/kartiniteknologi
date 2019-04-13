@@ -1,4 +1,4 @@
-baseurl = "kelimuttu.github.io/kartiniteknologi"
+baseurl = "/"
 theme = "hello-friend-ng"
 publishDir = "docs"
 
