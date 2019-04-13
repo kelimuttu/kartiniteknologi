@@ -80,6 +80,11 @@
   </url>
   
   <url>
+    <loc>/episodes/0/transcript/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
     <xhtml:link
