@@ -109,15 +109,15 @@ type = "transcript"
 
 **G:** Dan pengennya gak cuma ngomongin apa sih rasanya jadi cewek di bidang teknologi, tapi ngebahas apa sih yang mereka kerjain, hal-hal terkait expertise mereka di bidang itu, pengetahuan mereka, gak cuma sebatas tentang rasanya perempuan di bidang teknologi.
 
-**K:** Next thing, awal mulanya podcast ini. Sebenernya gue sendiri sama Galuh baru ketemu beberap kali, tiga kali kali ya. Tiga kali, kita memutuskan untuk bikin podcast bareng. Well, the beauty of the Internet. Anyway iya itu pertama kali ketemu di PyCon tahun lalu 2018, dari situ kita janjian untuk ngadain Global Diversity CFP Day...
+**K:** Next thing, awal mulanya podcast ini. Sebenernya gue sendiri sama Galuh baru ketemu beberap kali, tiga kali kali ya. Tiga kali, kita memutuskan untuk bikin podcast bareng. Well, the beauty of the Internet. Anyway iya itu pertama kali ketemu di PyCon tahun lalu 2018, trus dari situ kita janjian untuk ngadain Global Diversity CFP Day...
 
 **G:** Awal Maret deh kayanya.
 
-**K:** Awal Maret di Mozilla Community Space, terus udah ketiga kalinya kita ketemu buat ngobrol podcast ini. Gue sendiri sih sebenernya ngerasa Galuh itu a little bit, nggak a little bit sih, justru banyak juga menginspirasi gitu loh, karena meski dia baru di dunia tech ini, dia udah pemberani gitu, ngomong di beberapa tech conference gitu.
+**K:** Awal Maret di Mozilla Community Space, terus udah ketiga kalinya kita ketemu buat ngobrol podcast ini. Gue sendiri sih sebenernya ngerasa Galuh itu a little bit, nggak a little bit sih, justru banyak juga menginspirasi gitu loh, karena meski dia baru di dunia tech ini, dia udah pemberani gitu, udah ngomong di beberapa tech conferences gitu.
 
 **G:** Padahal modal nekat doang.
 
-**K:** Dan dia tetep semangat dan satu lagi Galuh pinter gambar I mean, dia engineer pinter logika, tapi pinter gambar juga, I can't fathom that, so inspirational. Itu sih sebenernya. Terus gue juga agak kaget, waktu Galuh aku ajakin, dia mau gitu diajak bikin podcast bareng, padahal kita baru ketemu dua kali.
+**K:** Oh, satu lagi yang aku suka. Galuh tuh pinter gambar I mean, dia engineer pinter logika, tapi pinter gambar juga, I can't fathom that, so inspirational. Itu sih sebenernya. Terus gue juga agak kaget, waktu Galuh aku ajakin, dia mau gitu diajak bikin podcast bareng, padahal kita baru ketemu dua kali.
 
 **G:** Padahal itu emang buat bagian publikasi Global Diversity CFP Day?
 
