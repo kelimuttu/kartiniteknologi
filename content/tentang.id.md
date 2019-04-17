@@ -14,7 +14,18 @@ Kami percaya pada kebaikan yang dibawa oleh keberagaman. Melalui Kartini Teknolo
 
 Di tiap episode, kami akan berbincang dengan sosok perempuan Indonesia inspiratif yang bekerja di industri teknologi tentang bidang yang mereka kuasai, termasuk cerita awal mula mereka bisa terjun dalam bidang tersebut.
 
-Jika kalian ingin mengajukan saran atau mengusulkan bintang tamu, sila sampaikan melalui [team@kartiniteknologi.id](mailto:team@kartiniteknologi.id), atau media sosial kami di [Twitter](https://twitter.com/kartini_tech) dan [Instagram](http://instagram.com/kartini_tech).
+Jika kalian ingin mengajukan saran atau mengusulkan bintang tamu, sila sampaikan melalui [team@kartiniteknologi.id](mailto:team@kartiniteknologi.id), atau media sosial kami di [Twitter](https://twitter.com/kartini_tech) dan [Instagram](http://instagram.com/kartiniteknologi).
+
+## Tersedia di: 
+- [Apple Podcast](https://podcasts.apple.com/us/podcast/kartini-teknologi/id1459757397?uo=4)
+- [Spotify](https://open.spotify.com/show/1vLCiFbZdvfAkcprdKbbqI?si=feQ9g3SFQQaLIJrEe5DOcQ)
+- [Anchor](https://anchor.fm/kartini-teknologi)
+- [Breaker](https://www.breaker.audio/kartini-teknologi)
+- [Overcast](https://overcast.fm/itunes1459719839/kartini-teknologi)
+- [Pocket Casts](https://pca.st/yr21)
+- [RadioPublic](https://radiopublic.com/kartini-teknologi-G2M4rR)
+- [Stictcher](https://www.stitcher.com/podcast/anchor-podcasts/kartini-teknologi)
+- [Soundcloud](https://soundcloud.com/kartiniteknologi)
 
 ## Tentang Pewara
 ### Kiki
