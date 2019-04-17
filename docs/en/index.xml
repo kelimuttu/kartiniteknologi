@@ -5,10 +5,20 @@
     <link>/en/</link>
     <description>Recent content on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Credit and tools</title>
+      <link>/en/credits-and-tools/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/credits-and-tools/</guid>
+      <description> There are tons of other creative folk&amp;rsquo;s work and tools that we use to make this podcast happen.
+Credits  Icon used for our logo made by mynamepong from www.flaticon.com is licensed by CC 3.0 BY Bumper music is Free horses by Stefan Kartenberg. Licensed under a Creative Commons Attribution Noncommercial (3.0) license. Ibu Kita Kartini song in the 1st episode is by Fathur I  Tools  Notion as project management tool Canva for visual editing Hugo as our website platform Audacity for audio editing Zoom as video conference recording tool  </description>
+    </item>
     
     <item>
       <title>About</title>

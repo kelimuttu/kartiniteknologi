@@ -3,7 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/catatan-untuk-tamu/</loc>
+    <loc>/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/kredit-dan-alat/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/credits-and-tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/kredit-dan-alat/"
+                />
+  </url>
+  
+  <url>
+    <loc>/catatan-tamu/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -13,7 +44,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/catatan-untuk-tamu/"
+                href="/catatan-tamu/"
                 />
   </url>
   
@@ -45,22 +76,6 @@
                 rel="alternate"
                 hreflang="id"
                 href="/episodes/"
-                />
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/"
                 />
   </url>
   
