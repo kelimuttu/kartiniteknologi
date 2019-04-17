@@ -17,7 +17,7 @@ In each episode, we will talk with an inspirational Indonesian woman who current
 
 If you want to give us suggestions or if you have any guest you'd like to see on our show, you can send us an e-mail at [team@kartiniteknologi.id](mailto:team@kartiniteknologi.id) or reach us at our social media accounts on [Twitter](https://twitter.com/kartini_tech) and [Instagram](http://instagram.com/kartiniteknologi).
 
-## Available on: 
+## Subscribe: 
 - [Apple Podcast](https://podcasts.apple.com/us/podcast/kartini-teknologi/id1459757397?uo=4)
 - [Spotify](https://open.spotify.com/show/1vLCiFbZdvfAkcprdKbbqI?si=feQ9g3SFQQaLIJrEe5DOcQ)
 - [Anchor](https://anchor.fm/kartini-teknologi)

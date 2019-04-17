@@ -16,7 +16,7 @@ Di tiap episode, kami akan berbincang dengan sosok perempuan Indonesia inspirati
 
 Jika kalian ingin mengajukan saran atau mengusulkan bintang tamu, sila sampaikan melalui [team@kartiniteknologi.id](mailto:team@kartiniteknologi.id), atau media sosial kami di [Twitter](https://twitter.com/kartini_tech) dan [Instagram](http://instagram.com/kartiniteknologi).
 
-## Tersedia di: 
+## Berlangganan:
 - [Apple Podcast](https://podcasts.apple.com/us/podcast/kartini-teknologi/id1459757397?uo=4)
 - [Spotify](https://open.spotify.com/show/1vLCiFbZdvfAkcprdKbbqI?si=feQ9g3SFQQaLIJrEe5DOcQ)
 - [Anchor](https://anchor.fm/kartini-teknologi)

@@ -23,7 +23,7 @@ DefaultContentLanguage = "id"
 [languages]
   [languages.en]
     title = "Kartini Teknologi"
-    homeSubtitle = "Kartini Teknologi is a podcast that features Indonesian women in tech. Listen:"
+    homeSubtitle = "Kartini Teknologi is a podcast that features Indonesian women in the tech-scene. Listen:"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
