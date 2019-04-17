@@ -26,7 +26,7 @@ We'll use Zoom to record our show. Zoom has a free client that you can download 
 Shortly before the show, we'll send you a Zoom link that will take you to our conversation room.
 
 ## Microphone 🎙️
-If you can wear headphones and talk into a microphone, that's awesome! If you can't, you can use the built-in mic on laptops but keep in mind that the sound quality will be lower.
+If you can wear headphones and talk into a microphone, that's awesome! If you can't, you can use the built-in mic on laptops but keep in mind that the sound quality will be lower on some laptop's type.
 
 ## Internet Connection 💻
 1. If you have an ethernet cable, you can use it to reduce latency
