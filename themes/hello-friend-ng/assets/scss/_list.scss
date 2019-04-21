@@ -35,8 +35,9 @@
 
   .post {
     &-title {
-      font-size: 1rem;
+      font-size: calc(110% + 0.1vw);
       margin: 5px 0 5px 0;
+      font-weight: 800;
     }
 
     &-year {
@@ -48,6 +49,11 @@
       @media #{$media-size-tablet} {
         margin: -6px 0 4px;
       }
+    }
+
+    &-desc {
+      line-height: 1.6;
+      margin-bottom: 20px;
     }
 
     &-item {
