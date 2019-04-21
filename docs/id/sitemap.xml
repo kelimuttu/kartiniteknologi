@@ -3,18 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/episodes/1/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/en/episodes/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/"
+                href="/episodes/1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/episodes/1/transcript/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/episodes/1/transcript/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/episodes/1/transcript/"
                 />
   </url>
   
@@ -34,23 +48,8 @@
   </url>
   
   <url>
-    <loc>/catatan-tamu/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/guest-notes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/catatan-tamu/"
-                />
-  </url>
-  
-  <url>
     <loc>/episodes/0/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,18 +63,17 @@
   </url>
   
   <url>
-    <loc>/episodes/</loc>
+    <loc>/catatan-tamu/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/episodes/"
+                href="/en/guest-notes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/episodes/"
+                href="/catatan-tamu/"
                 />
   </url>
   
@@ -111,6 +109,38 @@
                 rel="alternate"
                 hreflang="id"
                 href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/episodes/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/episodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/episodes/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/"
                 />
   </url>
   

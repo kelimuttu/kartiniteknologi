@@ -5,10 +5,35 @@
     <link>/</link>
     <description>Recent content on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 1 - Amy Wibowo</title>
+      <link>/episodes/1/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/1/</guid>
+      <description>Tamu Amy Wibowo adalah seorang programmer lulusan MIT, Honda, University of Tokyo Igarashi Lab, dan Airbnb yang sekarang sedang fokus untuk mengubah pendidikan ilmu komputer melalui bisnisnya, BubbleSort Zines.
+Twitter
+Deskripsi Amy bercerita tentang pandangannya terkait pendidikan ilmu komputer, bagaimana ia membangun bisnisnya, wearable Clipper Card ring ciptaannya yang membuat heboh Bay Area, serta bagaimana ia bisa mencapai itu semua dengan tetap menjadi dirinya sendiri.
+ Tautan  BubbleSort Zines Git It Gurl jacket ASIMO Reinforcement Learning Kano Coding Kit Arithmetic Logic Unit (ALU) Processor MDN Web Docs Artikel-artikel Lin Clark Virtual Reality Augmented Reality Clipper Card Ring buatan Amy di Twitter  Segmen 2:33 - Perkenalan Amy</description>
+    </item>
+    
+    <item>
+      <title>Transcript - Episode 1 - Introduction</title>
+      <link>/episodes/1/transcript/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/1/transcript/</guid>
+      <description>Kiki (K): Halo! Selamat datang kembali di podcast Kartini Teknologi.
+Galuh (G): Hi! Selamat datang kembali di acara kami.
+K: Jadi, episode ini adalah episode pertama kami dengan tamu dan kami kedatangan tamu yang spesial hari ini, Amy Wibowo. Hi Amy, apa kabar?
+Amy (A): Hi, terima kasih sudah mengundangku.
+G: Terima kasih sudah mau datang ke acara kami. Kami berdua ngefans banget dengan karya-karyamu, jadi kami senang banget dengan kehadiranmu di sini.</description>
+    </item>
     
     <item>
       <title>Kredit dan peralatan</title>
@@ -21,20 +46,9 @@ Kredit  Ikon yang digunakan pada logo kami dibuat oleh mynamepong dari www.flati
     </item>
     
     <item>
-      <title>Catatan untuk Tamu</title>
-      <link>/catatan-tamu/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/catatan-tamu/</guid>
-      <description>Hai! Sebelum mulai, kami ingin mengucapkan terima kasih telah bersedia menjadi bintang tamu Kartini Teknologi. Di laman ini, kamu bisa menemukan beberapa hal yang mungkin bermanfaat sebelum memulai percakapan kita. 🙌
-Ada 2 cara kita melakukan percakapan: tatap muka &amp;amp; percakapan jarak-jauh. Catatan berikut lebih utamanya ditujukan ke bintang tamu yang melakukan percakapan jarak-jauh.
-Apa yang kamu butuhkan Bisa mendengar satu sama lain dengan jelas sangatlah penting dalam percakapan kita nanti.</description>
-    </item>
-    
-    <item>
       <title>Episode 0 - Perkenalan</title>
       <link>/episodes/0/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/episodes/0/</guid>
       <description>Halo semuanya! Menjelang tanggal peluncuran podcast Kartini Teknologi di hari Kartini nanti, kita pengen ngenalin diri dulu nih sebagai host. Sekaligus cerita tentang tujuan kita bikin podcast ini. Plus, ngasih sedikit bocoran tentang bintang tamu kita minggu depan.
@@ -43,6 +57,17 @@ Salam kenal dan sampai ketemu di episode selanjutnya!
 4:37 - Perkenalan Galuh
 6:34 - Gimana cerita awalnya kita tertarik dengan teknologi
 16:08 - Tujuan kita bikin podcast ini</description>
+    </item>
+    
+    <item>
+      <title>Catatan untuk Tamu</title>
+      <link>/catatan-tamu/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/catatan-tamu/</guid>
+      <description>Hai! Sebelum mulai, kami ingin mengucapkan terima kasih telah bersedia menjadi bintang tamu Kartini Teknologi. Di laman ini, kamu bisa menemukan beberapa hal yang mungkin bermanfaat sebelum memulai percakapan kita. 🙌
+Ada 2 cara kita melakukan percakapan: tatap muka &amp;amp; percakapan jarak-jauh. Catatan berikut lebih utamanya ditujukan ke bintang tamu yang melakukan percakapan jarak-jauh.
+Apa yang kamu butuhkan Bisa mendengar satu sama lain dengan jelas sangatlah penting dalam percakapan kita nanti.</description>
     </item>
     
     <item>
