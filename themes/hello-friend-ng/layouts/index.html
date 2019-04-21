@@ -24,6 +24,7 @@
                                 <span class="post-title">{{.Title}}</span>
                                 <span class="post-day">{{ if .Site.Params.dateformShort }}{{ .Date.Format .Site.Params.dateformShort }}{{ else }}{{ .Date.Format "Jan 2"}}{{ end }}</span>
                             </a>
+                            <div class="post-desc">{{.Description}}</div>
                         </li>
                     {{- end }}
                 </ul>
