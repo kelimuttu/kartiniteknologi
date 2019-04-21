@@ -5,10 +5,34 @@
     <link>/en/</link>
     <description>Recent content on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 1 - Amy Wibowo</title>
+      <link>/en/episodes/1/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/1/</guid>
+      <description>Guest Amy Wibowo is a programmer and alumni of MIT, Honda, University of Tokyo Igarashi Lab, and Airbnb who is now focusing on redefining computer science education through her business, BubbleSort Zines.
+Twitter
+Description Amy shares her thoughts on computer science education, how she builds her business, the wearable Clipper Card ring that she created that Bay Area talks about, also how she can accomplish all those while staying true to herself.</description>
+    </item>
+    
+    <item>
+      <title>Transcript - Episode 1 - Introduction</title>
+      <link>/en/episodes/1/transcript/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/1/transcript/</guid>
+      <description>Kiki (K): Hi welcome back to the Kartini Teknologi podcast.
+Galuh (G): Hi! Welcome back to our show.
+K: So this is our very first episode with a guest and we have a very special guest with us today, Amy Wibowo. Hi Amy, how are you doing?
+Amy (A): Hi, thank you so much for having me.
+G: Thank you so much for coming on our show. We&amp;rsquo;re both huge fans of your work so we&amp;rsquo;re so excited to have you here.</description>
+    </item>
     
     <item>
       <title>Credit and tools</title>
@@ -21,6 +45,17 @@ Credits  Icon used for our logo made by mynamepong from www.flaticon.com is lice
     </item>
     
     <item>
+      <title>Episode 0 - Introduction</title>
+      <link>/en/episodes/0/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/0/</guid>
+      <description>Hey all! Counting days to the Kartini&amp;rsquo;s day, when we will launch our Podcast, Kartini Teknologi, we want to introduce ourselves as the hosts. Also to tell you about why we create this podcast in the first place. Plus, to give you a sneak peek about our very first guest next week.
+Nice to meet you and see you all in the next episode!
+ Segments 1:26 - Kiki&amp;rsquo;s introduction</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/en/about/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
@@ -28,17 +63,6 @@ Credits  Icon used for our logo made by mynamepong from www.flaticon.com is lice
       <guid>/en/about/</guid>
       <description>Indonesia needs more women in the technology industry. Technology has come to dominate people&amp;rsquo;s lives. When the creators of technology is dominated by certain groups, there will be bias which will cause disparity in the resulting products.
 We believe in the virtues of diversity. Through Kartini Teknologi, we want to encourage more Indonesian women to get involved in the technology industry. The objective is to reduce or even close the tech industry&amp;rsquo;s gender gap.</description>
-    </item>
-    
-    <item>
-      <title>Episode 0 - Introduction</title>
-      <link>/en/episodes/0/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/en/episodes/0/</guid>
-      <description>Hey all! Counting days to the Kartini&amp;rsquo;s day, when we will launch our Podcast, Kartini Teknologi, we want to introduce ourselves as the hosts. Also to tell you about why we create this podcast in the first place. Plus, to give you a sneak peek about our very first guest next week.
-Nice to meet you and see you all in the next episode!
- Segments 1:26 - Kiki&amp;rsquo;s introduction</description>
     </item>
     
     <item>

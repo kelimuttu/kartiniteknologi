@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/episodes/1/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/episodes/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/episodes/1/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/episodes/1/transcript/</loc>
+    <lastmod>2019-04-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/episodes/1/transcript/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/episodes/1/transcript/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/credits-and-tools/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -18,18 +48,17 @@
   </url>
   
   <url>
-    <loc>/en/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/en/episodes/0/</loc>
+    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/"
+                href="/episodes/0/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="/en/episodes/0/"
                 />
   </url>
   
@@ -45,37 +74,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/episodes/0/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/episodes/0/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/episodes/0/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/episodes/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/episodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/episodes/"
                 />
   </url>
   
@@ -106,6 +104,38 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/episodes/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/episodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/episodes/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2019-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
                 />
   </url>
   
