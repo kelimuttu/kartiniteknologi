@@ -2,7 +2,7 @@
 date = "2019-04-20"
 description = "Transcript for Episode 1 of Kartini Teknologi with Amy Wibowo."
 linktitle = ""
-title = "Transcript - Episode 1 - Introduction"
+title = "Transcript - Episode 1 - Amy Wibowo"
 slug = "1/transcript"
 type = "transcript"
 +++
