@@ -1,5 +1,5 @@
 +++
-date = "2019-05-11"
+date = "2019-05-12"
 description = "Transcript for Episode 2 of Kartini Teknologi with Asanilta Fahda."
 linktitle = ""
 title = "Transcript - Episode 2 - Asanilta Fahda"
