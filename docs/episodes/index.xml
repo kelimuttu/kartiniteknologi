@@ -5,10 +5,33 @@
     <link>/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 2 - Asanilta Fahda</title>
+      <link>/episodes/2/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/2/</guid>
+      <description>Tamu Asanilta Fahda adalah inisiator dan bagian dari tim di balik PilahPilihPilpres.com, sebuah situs yang membantu pemilih untuk menentukan pilihannya pada pemilihan presiden Indonesia tahun 2019 berdasarkan program dan gagasan yang diusung oleh masing-masing pasangan kandidat. Selain itu, ia juga pernah bekerja sebagai software engineer di Shopee Singapore di tim pemrosesan bahasa alami. Selain teknologi, Asanilta juga memiliki ketertarikan terhadap seni dan isu-isu sosial.
+Twitter
+Deskripsi Apakah kamu salah satu dari lima ratus ribu orang yang mengakses situs PilahPilihPilpres.</description>
+    </item>
+    
+    <item>
+      <title>Transkrip - Episode 2 - Asanilta Fahda</title>
+      <link>/episodes/2/transcript/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/2/transcript/</guid>
+      <description>Kiki (K):: Halo semuanya, balik lagi di Kartini Teknologi bersama Kiki dan Galuh.
+Galuh (G): Halo!
+K: Hari ini kita bakal ngomongin sesuatu yang baru aja kita lakukan, kayaknya tiga minggu lalu kali yah, yaitu&amp;hellip; pilpres! Eh pemilu deh. Tapi lebih spesifik ke pilpres sih. Anyway. Tentang pilpres ini kita udah punya satu bintang tamu spesial, nggak kalah spesial dari bintang tamu kita yang pertama. Namanya Asanilta Fahda.
+G: Jadi Asanilta ini merupakan lulusan dari ITB.</description>
+    </item>
     
     <item>
       <title>Episode 1 - Amy Wibowo</title>
@@ -23,7 +46,7 @@ Deskripsi Amy bercerita tentang pandangannya terkait pendidikan ilmu komputer, b
     </item>
     
     <item>
-      <title>Transcript - Episode 1 - Introduction</title>
+      <title>Transkrip - Episode 1 - Amy Wibowo</title>
       <link>/episodes/1/transcript/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       

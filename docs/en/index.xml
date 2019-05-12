@@ -5,10 +5,31 @@
     <link>/en/</link>
     <description>Recent content on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 2 - Asanilta Fahda</title>
+      <link>/en/episodes/2/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/2/</guid>
+      <description>Guest Asanilta Fahda is the initiator and is a part of the team behind PilahPilihPilpres.com&amp;mdash;a website that helps voters to determine their pick for the 2019 Indonesian presidential election based on the candidates&amp;rsquo; programs and ideas. Aside of that, she also worked as a software engineer in Shopee Singapore as a part of the Natural Language Processing (NLP) team. Besides of technology, she also has interests in the arts and social issues.</description>
+    </item>
+    
+    <item>
+      <title>Transcript - Episode 2 - Asanilta Fahda</title>
+      <link>/en/episodes/2/transcript/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/2/transcript/</guid>
+      <description>Kiki (K): Hi everyone, welcome back to Kartini Teknologi with Kiki and Galuh.
+Galuh (G): Hello!
+K: Today we&amp;rsquo;ll be talking about something that we have just done&amp;hellip; probably around three weeks ago&amp;hellip; the presidential election! Or actually the general elections, but we&amp;rsquo;ll specifically talk about the presidential election. Anyway. About this presidential election, we already have one special guest, Asanilta Fahda.
+G: So Asanilta is a graduate of ITB. She&amp;rsquo;s a former software engineer in Shopee Singapore in the Natural Language Processing team, and she&amp;rsquo;s also the initiator and coordinator of a website that&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Episode 1 - Amy Wibowo</title>
@@ -22,7 +43,7 @@ Description Amy shares her thoughts on computer science education, how she build
     </item>
     
     <item>
-      <title>Transcript - Episode 1 - Introduction</title>
+      <title>Transcript - Episode 1 - Amy Wibowo</title>
       <link>/en/episodes/1/transcript/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
       
