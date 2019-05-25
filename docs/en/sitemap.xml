@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/episodes/2/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <loc>/en/episodes/3/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/episodes/2/"
+                href="/episodes/3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/episodes/2/"
+                href="/en/episodes/3/"
                 />
   </url>
   
   <url>
     <loc>/en/episodes/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,7 +35,7 @@
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -46,6 +46,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/episodes/3/transcript/</loc>
+    <lastmod>2019-05-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/episodes/3/transcript/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/episodes/3/transcript/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/episodes/2/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/episodes/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/episodes/2/"
                 />
   </url>
   
