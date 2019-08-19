@@ -5,10 +5,32 @@
     <link>/en/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 5 - Vanya Valindria</title>
+      <link>/en/episodes/5/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/5/</guid>
+      <description>Guest Vanya Valindria is a machine learning researcher and research scientist based in London. Vanya also has a PhD degree from Imperial College London. Besides having extensive experiences in the field of machine learning, especially medical image analysis, Vanya is also passionate in tech and music.
+ Website LinkedIn BandCamp YouTube Article about Vanya Valindria in Women of Indonesia Career Network  Description Vanya Valindria is a machine learning researcher and research scientist based in London.</description>
+    </item>
+    
+    <item>
+      <title>Transcript - Episode 5 - Vanya Valindria</title>
+      <link>/en/episodes/5/transcript/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/5/transcript/</guid>
+      <description>K (Kiki): Hi everyone, we&amp;rsquo;re back at Kartini Teknologi with Kiki and Galuh here.
+G (Galuh): Hello.
+K: This is our first time recording onsite, usually we record using video conference, but now we have a special guest and we happen to be able to do this recording together&amp;hellip; so there are three of us here, and our guest is Vanya.
+V (Vanya): Okay, I&amp;rsquo;m Vanya, and I currently work as a machine learning researcher as well as a research scientist.</description>
+    </item>
     
     <item>
       <title>Episode 4 - Desy Kristianti</title>

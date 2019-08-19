@@ -5,10 +5,32 @@
     <link>/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 5 - Vanya Valindria</title>
+      <link>/episodes/5/</link>
+      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/5/</guid>
+      <description>Tamu Vanya Valindria adalah seorang machine learning researcher dan research scientist yang berbasis di London. Vanya juga memiliki gelar PhD dari Imperial College London. Selain berpengalaman di bidang pembelajaran mesin, khususnya analisis citra medis, Vanya juga memiliki passion di bidang teknologi dan musik.
+ Website LinkedIn BandCamp YouTube Artiklel tentang Vanya Valindria di Women of Indonesia Career Network  Deskripsi Pembelajaran mesin merupakan salah satu teknologi yang telah memiliki dampak yang signifikan di banyak bidang sains dan teknologi, termasuk bidang medis.</description>
+    </item>
+    
+    <item>
+      <title>Transkrip - Episode 5 - Vanya Valindria</title>
+      <link>/episodes/5/transcript/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/5/transcript/</guid>
+      <description>K (Kiki): Halo semua, kita balik lagi di Kartini Teknologi. Kiki dan Galuh di sini.
+G (Galuh): Halo.
+K: Ini pertama kalinya kita record secara onsite, biasanya kita lewat video conference, tapi kali ini tamunya spesial jadi kebetulan kita bisa record bareng-bareng jadi ya&amp;hellip; kita udah ada bertiga di sini, namanya Kak Vanya. Kayaknya langsung aja kali ya, Kak Vanya introduction langsung.
+V (Vanya): Oke, saya Vanya, sekarang kerjanya sebagai machine learning researcher dan research scientist juga.</description>
+    </item>
     
     <item>
       <title>Episode 4 - Desy Kristianti</title>
