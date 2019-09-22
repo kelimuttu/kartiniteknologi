@@ -5,10 +5,31 @@
     <link>/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 7 - Alanda Kariza</title>
+      <link>/episodes/7/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/7/</guid>
+      <description>Tamu Alanda Kariza bekerja sebagai Manajer Komunitas Quora di Indonesia. Sebelumnya, ia lulus dari University of Warwick dengan gelar MSc di behavioural economics serta membangun organisasi sosial bernama Sinergi Muda yang menyelenggarakan Indonesian Youth Conference. Ia telah menerbitkan 11 buku, di antaranya Beats Apart (2015) dan Sophismata (2017).
+ Quora Twitter LinkedIn  Deskripsi Di episode kali ini, Alanda Kariza berbagi tentang perannya sebagai Manajer Komunitas Quora di Indonesia, bagaimana latar belakang Alanda di aktivisme maupun ilmu perilaku berkaitan dengan perannya saat ini, serta pengaruh komunitas baik di industri teknologi maupun industri secara umum.</description>
+    </item>
+    
+    <item>
+      <title>Transkrip - Episode 7 - Alanda Kariza</title>
+      <link>/episodes/7/transcript/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/7/transcript/</guid>
+      <description>Kiki (K): Halo semuanya, welcome back to Kartini Teknologi bersama Kiki dan Galuh di sini.
+Galuh (G): Halo.
+K: Jadi kita udah bertiga nih sama salah satu guest yang spesial, dan di sini aku juga udah lumayan lama ngikutin kiprahnya. Apa ya&amp;hellip; menurutku ini bakal menarik karena bahasannya mungkin agak berbeda sama episode kita selama ini, karena selama ini kan lebih teknikal gitu kan, bahas data, terus machine learning. Terus sekarang kita bahas dari segi yang lain.</description>
+    </item>
     
     <item>
       <title>Episode 6 - Zahra Amalia Syarifah</title>
