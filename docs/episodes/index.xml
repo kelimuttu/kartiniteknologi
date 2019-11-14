@@ -5,10 +5,31 @@
     <link>/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 9 - Veni Johanna</title>
+      <link>/episodes/9/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/9/</guid>
+      <description>Tamu Veni Johanna adalah seorang lulusan Stanford University yang sekarang bekerja sebagai Engineering Manager di Quora. Selain menjalani perannya di Quora, ia juga mendirikan sebuah program bernama Indonesia Mengglobal yang misinya adalah meningkatkan jumlah masyarakat Indonesia yang belajar, berkarya dan berdaya di kancah dunia. Program ini juga menyediakan mentorship bagi mereka yang ingin belajar di luar negeri.
+ Twitter LinkedIn  Deskripsi Apa aja sih tugas seorang Engineering Manager? Di Episode kali ini, kami ngobrol bersama Veni Johanna, Engineering Manager di Quora.</description>
+    </item>
+    
+    <item>
+      <title>Transkrip - Episode 9 - Veni Johanna</title>
+      <link>/episodes/9/transcript/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/9/transcript/</guid>
+      <description>Kiki (K): Halo semua, kembali lagi ke Kartini Teknologi dengan Kiki dan Galuh. Seperti biasa, kami sedang bersama tamu spesial, dan aku sendiri senang banget. Aku baru mengetahui tentangnya beberapa waktu lalu, tapi aku pikir profilnya benar-benar menggambarkan seorang Kartini Teknologi. Jadi aku senang banget bisa ngobrol lebih banyak dengan dia hari ini. Benar kan, Galuh?
+Galuh (G): Yap.
+K: Baiklah, jadi langsung saja kita perkenalkan Veni Johanna, seorang engineering manager di Quora.</description>
+    </item>
     
     <item>
       <title>Episode 8 - Velta Azizah Destiana</title>
