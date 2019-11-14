@@ -5,10 +5,20 @@
     <link>/en/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 9 - Veni Johanna</title>
+      <link>/en/episodes/9/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/9/</guid>
+      <description>Tamu Veni Johanna is a Stanford alumni who now is working as an Engineering Manager in Quora. Apart from her role in Quora, she also co-founded a program called Indonesia Mengglobal whose mission is to increase Indonesian who study and excel globally. The program also provides mentorship for those want to study abroad.
+ Twitter LinkedIn  Deskripsi What does an Engineer Manager do? In this episode, we talked with Veni Johanna, an Engineering Manager in Quora.</description>
+    </item>
     
     <item>
       <title>Episode 8 - Velta Azizah Destiana</title>
