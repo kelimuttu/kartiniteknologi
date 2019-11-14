@@ -50,6 +50,21 @@
   </url>
   
   <url>
+    <loc>/en/episodes/9/transcript/</loc>
+    <lastmod>2019-11-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="/episodes/9/transcript/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/episodes/9/transcript/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/episodes/8/</loc>
     <lastmod>2019-10-19T00:00:00+00:00</lastmod>
     <xhtml:link
