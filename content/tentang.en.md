@@ -30,7 +30,7 @@ If you want to give us suggestions or if you have any guest you'd like to see on
 
 ## About the Hosts
 ### Kiki
-Kiki is an ex-programmer who is now working as a Community Coordinator at Mozilla. Currently Kiki works remotely and lives in the Tegal regency, Central Java. Kiki is also active in writing her [blog](https://kelimuttu.co/), and is currently busy revising her first book manuscript. You can also find her on [Twitter](https://twitter.com/kelimuttu).
+Kiki is an ex-programmer who is now working as a Community Manager at Mozilla. Currently Kiki works remotely and lives in the Tegal, Central Java. Kiki is also active in writing her [blog](https://kelimuttu.co/), and is currently busy revising her first book manuscript. You can also find her on [Twitter](https://twitter.com/kelimuttu).
 
 ### Galuh
 Galuh is a data engineer who currently works at GOJEK. When not in front her laptop, most likely you can find her reading or sketching. You can read Galuh's writings in her blog, [galuh.me](http://galuh.me) or read her tweets on [Twitter](https://twitter.com/galuhsahid).
