@@ -5,10 +5,31 @@
     <link>/en/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 11 - Adrianti Rusli</title>
+      <link>/en/episodes/11/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/11/</guid>
+      <description>Guest Adrianti Rusli is a front-end developer at JYSK Group, an R&amp;amp;D clinic &amp;amp; aesthetics companies that is based in Singapore. Besides of working in the front-end development field and dabbling in back-end development, she is also active in communities such as Perempuan WP and has spoken in various events and meetups such as Chrome Dev Summit Extended 2019 Jakarta.
+ Twitter LinkedIn  Description In our first episode in 2020, we chatted with Adrianti Rusli who is currently working as a frontend developer at JYSK Group.</description>
+    </item>
+    
+    <item>
+      <title>Transcript - Episode 11 - Adrianti Rusli</title>
+      <link>/en/episodes/11/transcript/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/11/transcript/</guid>
+      <description>Kiki (K): Hi everyone, welcome back to Kartini Teknologi. This is our eleventh episode I think, it&amp;rsquo;s been a long time since we record a new episode, we&amp;rsquo;re very sorry! I think the tenth episode was even recorded in November or October, right Galuh?
+Galuh (G): Yup.
+K: Yeah. It&amp;rsquo;s been very hectic, and in January we focused on Global Diversity CFP Day, which we organized together. So we got kind of distracted, that&amp;rsquo;s why we&amp;rsquo;re just getting back to Kartini Teknologi.</description>
+    </item>
     
     <item>
       <title>Episode 10 - Victoria Lestari</title>
@@ -21,7 +42,7 @@
     </item>
     
     <item>
-      <title>Transcript - Episode 10 - Veni Johanna</title>
+      <title>Transcript - Episode 10 - Victoria Lestari</title>
       <link>/en/episodes/10/transcript/</link>
       <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
