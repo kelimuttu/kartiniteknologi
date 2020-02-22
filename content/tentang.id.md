@@ -32,4 +32,4 @@ Jika kalian ingin mengajukan saran atau mengusulkan bintang tamu, sila sampaikan
 Kiki adalah seorang mantan programmer yang sekarang bekerja sebagai Manajer Komunitas di Mozilla. Sekarang ini Kiki bekerja remote dan tinggal di Tegal, Jawa Tengah. Kiki juga aktif menulis di [blog](https://kelimuttu.co/), dan saat ini tengah sibuk merevisi naskah buku pertamanya. Kamu juga bisa menemukannya di [Twitter](https://twitter.com/kelimuttu).
 
 ### Galuh
-Galuh adalah seorang *data engineer* yang saat ini sedang bekerja di GOJEK. Apabila sedang tidak berkutat di depan laptop-nya, kemungkinan besar kamu bisa menemukannya sedang membaca atau menggambar. Kamu juga dapat membaca tulisan Galuh di blog-nya, [galuh.me](http://galuh.me) atau membaca kicauannya di [Twitter](https://twitter.com/galuhsahid).
+Galuh adalah seorang *data scientist* yang saat ini sedang bekerja di Gojek. Apabila sedang tidak berkutat di depan laptop-nya, kemungkinan besar kamu bisa menemukannya sedang membaca atau menggambar. Kamu juga dapat membaca tulisan Galuh di blog-nya, [galuh.me](http://galuh.me) atau membaca kicauannya di [Twitter](https://twitter.com/galuhsahid).
