@@ -1,8 +1,8 @@
 +++
 date = "2019-12-09"
-description = "Transcript for Episode 9 of Kartini Teknologi with Veni Johanna"
+description = "Transcript for Episode 10 of Kartini Teknologi with Victoria Lestari"
 linktitle = ""
-title = "Transcript - Episode 10 - Veni Johanna"
+title = "Transcript - Episode 10 - Victoria Lestari"
 slug = "10/transcript"
 type = "transcript"
 +++
