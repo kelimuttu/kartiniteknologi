@@ -5,10 +5,32 @@
     <link>/en/</link>
     <description>Recent content on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 12 - Theresia Tanzil</title>
+      <link>/en/episodes/12/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/12/</guid>
+      <description>Guest Theresia Tanzil is currently working as a Lead Solution Architect at a Data-as-a-Service company called Scrapinghub, where she gets to reverse engineer websites and systems on a daily basis, among other things. She also writes about various topics—from metacognition to information architecture—on her website, proses.id.
+ Twitter Website  Description In this episode, we chatted with Theresia Tanzil who is currently working as a Lead Solution Architect at a Data-as-a-Service company called Scrapinghub.</description>
+    </item>
+    
+    <item>
+      <title>Transcript - Episode 12 - Theresia Tanzil</title>
+      <link>/en/episodes/12/transcript/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/12/transcript/</guid>
+      <description>Kiki (K): Hi everyone, welcome to Kartini Teknologi with Kiki and Galuh. Before we start chatting with our guest, we want to congratulate Galuh who has just become a Google Developer Expert in Machine Learning. Congrats!
+Galuh (G): Thank you!
+K: So cool. Anyway, talking about data, we have Theresia Tanzil with us. She&amp;rsquo;s a solution architect at ScrapingHub. Do you want to introduce yourself a little bit?
+Tere (T): Sure.</description>
+    </item>
     
     <item>
       <title>Episode 11 - Adrianti Rusli</title>
