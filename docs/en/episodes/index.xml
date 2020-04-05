@@ -5,10 +5,29 @@
     <link>/en/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 13 - Adzkia Salima</title>
+      <link>/en/episodes/13/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/13/</guid>
+      <description>Guest Adzkia Salima is a software engineer at Genetwister Technologies B.V. Adzkia is a computer science graduate from Institut Pertanian Bogor (IPB). Her child dream to be a doctor then took her to continue her master study at Wageningen University &amp;amp; Research majoring in bioinformatics.
+ Twitter Blog  Description What happens when we combine computer science with biology? In this episode, we chat with Adzkia Salima, a software engineer with background in computer science in bioinformatics.</description>
+    </item>
+    
+    <item>
+      <title>Transcript - Episode 13 - Adzkia Salima</title>
+      <link>/en/episodes/13/transcript/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/13/transcript/</guid>
+      <description>Kiki (K): Hi everyone! In the midst of the corona outbreak, hopefully all is well. Anyway, we&amp;rsquo;re back again with Kiki and Galuh here. And as usual we will be chatting with one guest, this time the topic is interesting because we have never discussed it and it seems like a fairly new topic in Indonesia. It&amp;rsquo;s about bioinformatics. And with us now we have Adzkia Salima, she is a software engineer at Genetwister Technologies, right?</description>
+    </item>
     
     <item>
       <title>Episode 12 - Theresia Tanzil</title>
