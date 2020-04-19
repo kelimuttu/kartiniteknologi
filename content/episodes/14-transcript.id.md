@@ -37,7 +37,7 @@ type = "transcript"
 
 **K:** Wow, lumayan panjang ya perjalanannya. Tapi, kita tarik balik nih ke cerita awalnya Dita tertarik sama teknologi. Masih inget ngga sih dulu, awal mulanya kaya "eh kayanya gue suka nih sama teknologi. Pengen lanjutin sekolah komputer aja deh". Itu awal mulanya dari kapan sih?
 
-**D:** Aku lumayan pragmatis, sih. Aku liat lowongan pekerjaan lebih banyak computer science dan butuh ijasah dan paling murah di sistem informasi, ya aku ambil itu. Maaf tidak inspiratif. Haha
+**D:** Aku lumayan pragmatis, sih. Aku liat lowongan pekerjaan lebih banyak computer science dan butuh ijasah dan paling murah di sistem informasi, ya aku ambil itu. Maaf tidak inspiratif. *Tertawa*
 
 **K:** *Tertawa*. Engga tapi itu sebenernya sah-sah aja sih. Maksudnya buat orang-orang yang emang pursue untuk masuk industri teknologi for the money, I think there's no shame on that. 
 
@@ -45,9 +45,9 @@ type = "transcript"
 
 **K:** Berarti dari SMA emang udah pengen masuk ke industri teknologi ya?
 
-**D:** Aku melihat banyak potensinya, sih. Terutama kayak misalnya liat point of sales di kasir gitu, sebagai anak kecil dari dulu sampai sekarang aku masih banyak tanya. Jadi aku penasaran, eh yang bikin siapa? Ini kenapa seperti ini? Trus, nggak ada yang bisa jawab. Dan ini dunia yang asing sekali tapi aku lihat potensinya, internet, komputer, dan lain sebagainya itu apa ya, software ini masa depan yang tidak bisa terbeendung lagi, pasti bakalan penting banget buat kita semua. Jadi dari situ ya aku sangat pragmatis. Oh, aku harus bekerja di tempat yang banyak orang akan butuh. 
+**D:** Aku melihat banyak potensinya, sih. Terutama kayak misalnya liat point of sale di kasir gitu, sebagai anak kecil dari dulu sampai sekarang aku masih banyak tanya. Jadi aku penasaran, eh yang bikin siapa? Ini kenapa seperti ini? Trus, nggak ada yang bisa jawab. Dan ini dunia yang asing sekali tapi aku lihat potensinya, internet, komputer, dan lain sebagainya itu apa ya, software ini masa depan yang tidak bisa terbeendung lagi, pasti bakalan penting banget buat kita semua. Jadi dari situ ya aku sangat pragmatis. Oh, aku harus bekerja di tempat yang banyak orang akan butuh. 
 
-**K:** Kalo orang kebanyakan tuh mulai tertarik sama, ini kalo dari yang aku perhatiin, ya. Kebanyakan tamu-tamu Kartini Teknologi tuh biasanya pada tertarik setelah pada ngerti internet. Dan Dita sendiri kan tadi ngomonginnya dari hal yang keseharian banget, kan, kaya ini sistem point of sales di kasir siapa yang bikin. Padahal gue kayanya waktu kecil ngga kepikiran sampe kesitu deh. Jadi, kaya keren banget sih dari kecil udah notice hal-hal kaya gitu. Keren! 
+**K:** Kalo orang kebanyakan tuh mulai tertarik sama, ini kalo dari yang aku perhatiin, ya. Kebanyakan tamu-tamu Kartini Teknologi tuh biasanya pada tertarik setelah pada ngerti internet. Dan Dita sendiri kan tadi ngomonginnya dari hal yang keseharian banget, kan, kaya ini sistem point of sale di kasir siapa yang bikin. Padahal gue kayanya waktu kecil ngga kepikiran sampe kesitu deh. Jadi, kaya keren banget sih dari kecil udah notice hal-hal kaya gitu. Keren! 
 
 **D:** Hmm, ya. Makasih. *Tertawa*. Iya, soalnya waktu SMP aku ada ini kan, pelajaran Pascal kan. Trus kaya, penasaran ini siapa sih yang bikin. Ngapain aku ngerjain kaya gini. Trus, setelah kupikir-pikir lagi, oh, yang di kasir itu dibikin pakai Pascal atau COBOL. Trus, ternyata menarik juga ya. Trus, di SMA ada temen-temen yang masuk ke tim olimpiade komputer Indonesia, truh, oh, ada ini ya, lucu juga kaya puzzle gitu. Aku mikirnya nih olimpiade lucu banget, ngerjain tes sama kuis puzzle gitu. Nah, dari situ baru tau. Oh, dunia ini tuh ternyata sangat tergantung dengan software dan sangat tergantung dengan komputer. 
 
@@ -317,7 +317,7 @@ type = "transcript"
 
 **K:** Nah, yang kaya gitu-gitu tuh yang jarang ke-expose. Kayanya we have too few women role model ngga sih? Maksudnya kalo aku liat-liat, balik lagi ke Sheryl Sandberg, orang yang udah orang banyak tau. Padahal ada banyak perempuan yang kontribusinya juga nggak kalah gede di bidang teknologi yang orang-orang belum terlalu kenal. Baiklah. Terakhir, nih. Ada saran-saran nggak buat temen-temen pendengar Kartini Teknolgi yang pengen berkarir di bidang teknologi?
 
-**D:** Hmm, kayanya dilakuin aja. Jangan ragu-ragu. Kaya misalnya aku dari yang nggak punya motivasi besar jadi sampe sekarang itu karena aku coba jalan terus. Keep moving forward dan terus belajar nggak perlu peduliin. Ah, ini kerjaan cewek ini kerjaan cowok. Kalau kamu suka yang dikerjain aja. Dan berusaha jadi terbaik di bidang itu. 
+**D:** Hmm, kayanya dilakuin aja. Jangan ragu-ragu. Kaya misalnya aku dari yang nggak punya motivasi besar jadi sampe sekarang itu karena aku coba jalan terus. Keep moving forward dan terus belajar nggak perlu peduliin "ah, ini kerjaan cewek ini kerjaan cowok. Kalau kamu suka yang dikerjain aja. Dan berusaha jadi terbaik di bidang itu. 
 
 **K:** Iya, sih. Kayanya hampir semua guest Kartini Teknolgi yang ditanyain hal itu jawabnya sama, just do it!
 
