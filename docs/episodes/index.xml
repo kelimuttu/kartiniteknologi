@@ -5,10 +5,50 @@
     <link>/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 13 - Adzkia Salima</title>
+      <link>/episodes/13/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/13/</guid>
+      <description>Tamu Adzkia Salima adalah seorang software engineer di Genetwister Technologies B.V. Adzkia merupakan lulusan sarjana ilmu komputer di Institut Pertanian Bogor (IPB). Mimpi masa kecilnya untuk menjadi dokter membawanya untuk melanjutkan pendidikan master di Wageningen University &amp;amp; Research mengambil jurusan bioinformatika.
+ Twitter Blog  Deskripsi Apa yang terjadi ketika kita menggabungkan ilmu komputer dengan biologi? Di episode kali ini, kami ngobrol dengan Adzkia Salima, seorang software engineer dengan latar belakang di ilmu komputer dan bioinformatika.</description>
+    </item>
+    
+    <item>
+      <title>Transkrip - Episode 13 - Adzkia Salima</title>
+      <link>/episodes/13/transcript/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/13/transcript/</guid>
+      <description>Kiki (K): Halo semuanya pendengar Kartini Teknologi. Di tengah wabah corona kali ini, semoga semuanya baik-baik aja ya. Anyway, kita balik lagi dengan Kiki dan Galuh di sini. Dan seperti biasa kita bakal ngobrol-ngobrol sama satu guest, kali ini topiknya menurutku menarik karena belum pernah dibahas juga dan kayaknya topik yang lumayan baru sih di Indonesia, yaitu tentang bioinformatics. Dan bersama kita sekarang udah ada Adzkia Salima, dia seorang software engineer di Genetwister Technologies, betul yah?</description>
+    </item>
+    
+    <item>
+      <title>Episode 12 - Theresia Tanzil</title>
+      <link>/episodes/12/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/12/</guid>
+      <description>Tamu Theresia Tanzil adalah seorang Lead Solution Architect di sebuah perusahaan Data-as-a-Service bernama Scrapinghub, di mana salah satu hal yang ia lakukan setiap harinya adalah melakukan reverse engineering terhadap berbagai situs dan sistem. Ia juga menulis tentang berbagai topik—mulai dari metakognisi sampai arsitektur informasi—di situsnya, proses.id.
+ Twitter Website  Deskripsi Di episode kali ini, kami ngobrol dengan Theresia Tanzil yang merupakan seorang Lead Solution Architect di sebuah perusahaan Data-as-a-Service bernama Scrapinghub.</description>
+    </item>
+    
+    <item>
+      <title>Transkrip - Episode 12 - Theresia Tanzil</title>
+      <link>/episodes/12/transcript/</link>
+      <pubDate>Sat, 14 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/12/transcript/</guid>
+      <description>Kiki (K): Halo semuanya, selamat datang di Kartini Teknologi. Balik lagi sama Kiki dan Galuh di sini. Kayaknya sebelum kita ngobrol-ngobrol sama guest kita kali ini, kita pengen ngasih selamat dulu nih sama Galuh yang kemarin baru jadi Google Developer Expert di bidang Machine Learning. Selamat!
+Galuh (G): Thank you!
+K: Keren banget. Anyway ngomongin data nih, hari ini kita udah kedatangan yang namanya Kak Theresia Tanzil, ia seorang solution architect di ScrapingHub.</description>
+    </item>
     
     <item>
       <title>Episode 11 - Adrianti Rusli</title>
