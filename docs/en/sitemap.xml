@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/episodes/14/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <loc>/en/episodes/13/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="/episodes/14/"
+                href="/episodes/13/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/episodes/14/"
+                href="/en/episodes/13/"
                 />
   </url>
   
   <url>
     <loc>/en/episodes/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,7 +35,7 @@
   
   <url>
     <loc>/en/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -46,36 +46,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/episodes/14/transcript/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/episodes/14/transcript/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/episodes/14/transcript/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/episodes/13/</loc>
-    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="/episodes/13/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/episodes/13/"
                 />
   </url>
   
