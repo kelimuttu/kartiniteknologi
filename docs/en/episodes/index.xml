@@ -5,10 +5,34 @@
     <link>/en/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 15 - Farah Clara</title>
+      <link>/en/episodes/15/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/15/</guid>
+      <description>Tamu 
+Farah Clara is currently managing the Python Indonesia community and is also an AWS User Group Lead in Indonesia. Farah has been involved in many meetups and technology conferences in Indonesia such as PyCon Indonesia in 2018 and 2019.
+ Twitter LinkedIn  Deskripsi If you&amp;rsquo;re involved in the tech communities in Indonesia, you may be familiar with the name Farah Clara or the username @sosispanggang. She most likely is also involved in the meetups or conferences that you have attended.</description>
+    </item>
+    
+    <item>
+      <title>Transkrip - Episode 15 - Farah Clara</title>
+      <link>/en/episodes/15/transcript/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/15/transcript/</guid>
+      <description>** Kiki (K): ** Hello everyone! We return to Kartini Technology with Kiki and Galuh as usual. And, today we have a guest who you can say is the most requested guest anyway. I think I&amp;rsquo;ve heard people request her several times. So welcome Farah!
+** Farah (F): ** Hello!
+** K: ** [Laughter] How are you?
+** F: ** Are there really many requests? [Laughter] Good.
+** K: ** Good?</description>
+    </item>
     
     <item>
       <title>Episode 14 - Radita Liem</title>
