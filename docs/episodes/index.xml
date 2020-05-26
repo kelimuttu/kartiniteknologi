@@ -5,10 +5,34 @@
     <link>/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 15 - Farah Clara</title>
+      <link>/episodes/15/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/15/</guid>
+      <description>Tamu Farah Clara adalah pengurus komunitas Python Indonesia dan juga merupakan seorang AWS User Group Lead di Indonesia. Farah juga banyak terlibat dalam berbagai meetup dan konferensi teknologi yang ada di Indonesia seperti PyCon Indonesia pada tahun 2018 dan 2019.
+ Twitter LinkedIn  Deskripsi Kalau kamu terlibat di komunitas teknologi di Indonesia, mungkin udah nggak asing lagi dengan nama Farah Clara atau username @sosispanggang. Meetup atau konferensi yang kamu datangi pun kemungkinan besar nggak luput dari keterlibatan Farah.</description>
+    </item>
+    
+    <item>
+      <title>Transkrip - Episode 15 - Farah Clara</title>
+      <link>/episodes/15/transcript/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/episodes/15/transcript/</guid>
+      <description>Kiki (K): Halo semuanya! Kita balik lagi di Kartini Teknologi bareng Kiki dan Galuh seperti biasa. Dan, hari ini kita udah kedatangan bintang tamu yang bisa dibilang most requested juga sih. Kayanya aku dah denger orang request dia tuh beberapa kali gitu. Jadi, selamat datang Farah!
+Farah (F): Halo!
+K: [Tertawa] Apa kabar nih?
+F: Benarkah banyak yang request? [Tertawa] Kabar baik.
+K: Baik ya?
+F: Di tengah pandemi, kabar baik.</description>
+    </item>
     
     <item>
       <title>Episode 14 - Radita Liem</title>
