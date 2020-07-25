@@ -5,10 +5,29 @@
     <link>/en/episodes/</link>
     <description>Recent content in Episodes on Kartini Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/en/episodes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Episode 16 - Aulia Rahmani</title>
+      <link>/en/episodes/16/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/16/</guid>
+      <description>Guest Aulia Rahmani is currently a Lead UI/UX Designer in Alterra. After finishing her studies in communication, she took up various roles from event organizer to front-end developer. She also writes about UX and design on her Medium and personal website.
+ Medium LinkedIn Twitter Personal website  Description What is UX writing and what is the role of a UX writer? In this episode, we chat with Aulia Rahmani to discuss about UX writing - from what UX writers do, how do UX writers play a role in the development of a feature or product, the skills that you need to become a UX writer, to tools and techniques that UX writers often use in their day-to-day job.</description>
+    </item>
+    
+    <item>
+      <title>Transkrip - Episode 16 - Aulia Rahmani</title>
+      <link>/en/episodes/16/transcript/</link>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/en/episodes/16/transcript/</guid>
+      <description>Kiki (K): Hello everyone, we are back again in Kartini Teknologi with Kiki and Galuh. We haven&amp;rsquo;t recorded for a long time, huh? The last time we recorded was like before fasting. So it&amp;rsquo;s been a long time. We&amp;rsquo;re very sorry. The reason is there really nothing specific. Perhaps because we have to adapt again because of the pandemic and everything else. Because even though I&amp;rsquo;m used to working remotely, this pandemic has changed everything.</description>
+    </item>
     
     <item>
       <title>Episode 15 - Farah Clara</title>
@@ -16,9 +35,9 @@
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/en/episodes/15/</guid>
-      <description>Tamu 
+      <description>Guest 
 Farah Clara is currently managing the Python Indonesia community and is also an AWS User Group Lead in Indonesia. Farah has been involved in many meetups and technology conferences in Indonesia such as PyCon Indonesia in 2018 and 2019.
- Twitter LinkedIn  Deskripsi If you&amp;rsquo;re involved in the tech communities in Indonesia, you may be familiar with the name Farah Clara or the username @sosispanggang. She most likely is also involved in the meetups or conferences that you have attended.</description>
+ Twitter LinkedIn  Description If you&amp;rsquo;re involved in the tech communities in Indonesia, you may be familiar with the name Farah Clara or the username @sosispanggang. She most likely is also involved in the meetups or conferences that you have attended.</description>
     </item>
     
     <item>
@@ -40,8 +59,8 @@ Farah Clara is currently managing the Python Indonesia community and is also an 
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/en/episodes/14/</guid>
-      <description>Tamu Radita Liem is a research assistant and PhD candidate at RWTH Aachen University. After graduated from her undergraduate study in UkDW Jogja, she worked at one of game companies from Japan and then at one unicorn companies in Indonesia before finally continued her master study in Estonia. Now she&amp;rsquo;s researching about High Performance Computing (HPC) for her doctorate study.
- Instagram LinkedIn  Deskripsi In this episode, we talked with Radita Liem, a research assistant and PhD candidate at RWTH Aachen University.</description>
+      <description>Guest Radita Liem is a research assistant and PhD candidate at RWTH Aachen University. After graduated from her undergraduate study in UkDW Jogja, she worked at one of game companies from Japan and then at one unicorn companies in Indonesia before finally continued her master study in Estonia. Now she&amp;rsquo;s researching about High Performance Computing (HPC) for her doctorate study.
+ Instagram LinkedIn  Description In this episode, we talked with Radita Liem, a research assistant and PhD candidate at RWTH Aachen University.</description>
     </item>
     
     <item>
