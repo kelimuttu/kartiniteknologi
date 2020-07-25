@@ -215,4 +215,4 @@ K; What are the tools that you can use?
 
 **A:** Thank you so much!
 
-**K:** Before we end the episode, we want to say thanks to AudioLab who will be helping us edit this podcast. All this time Kartini Teknologi is like an MVP, usually I would edit it, Galuh will write the transcript. But we don't even have professional microphones. Now we want to try to get our friend's help to create a more proper audio, let's see how it looks like. So thank you to Asep from AudioLab. That's all, I guess. Thank you so much for listening, and see you on the next episode!
+**K:** Before we end the episode, we want to say thanks to Odiolab who will be helping us edit this podcast. All this time Kartini Teknologi is like an MVP, usually I would edit it, Galuh will write the transcript. But we don't even have professional microphones. Now we want to try to get our friend's help to create a more proper audio, let's see how it looks like. So thank you to Asep from Odiolab. That's all, I guess. Thank you so much for listening, and see you on the next episode!
