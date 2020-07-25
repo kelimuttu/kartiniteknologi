@@ -165,7 +165,7 @@ type = "transcript"
 
 **K:** Ngomongin referensi, ada ngga buku, blog atau website yang Kak Auli sering baca-baca buat nyari referensi tentang UI/UX?
 
-**A:** Sekarang jarang baca buku UX, lebih suka baca artikel. Kalo jaman dulu masih rajin baca buku UX, ada dua buku yang paling aku suka. The [inaudible] itu bagus karena lebih psychology, sama Emotional Design dari the famous Don Norman. Itu lebih ke psychology, jadi tau konsep dasar UX itu gimana. Sekarang sih lebih suka baca yang self-growth, project development. Satu buku tentang UX writing yang aku suka, buku ini sebenernya nggak terlalu lengkap tapi bacanya enak dan applicable. Nama bukunya Microcopy, yang nulis Kinneret Yifrah. Dia juga sering tuh nulis di Medium.
+**A:** Sekarang jarang baca buku UX, lebih suka baca artikel. Kalo jaman dulu masih rajin baca buku UX, ada dua buku yang paling aku suka. Don't Make Me Think dari Steve Krug itu bagus karena lebih psychology, sama Emotional Design dari the famous Don Norman. Itu lebih ke psychology, jadi tau konsep dasar UX itu gimana. Sekarang sih lebih suka baca yang self-growth, project development. Satu buku tentang UX writing yang aku suka, buku ini sebenernya nggak terlalu lengkap tapi bacanya enak dan applicable. Nama bukunya Microcopy, yang nulis Kinneret Yifrah. Dia juga sering tuh nulis di Medium.
 
 **K:** Tadi kan bukunya kayanya lebih banyak tentang psikologi. Di komunikasi sendiri dulu ada bahasan kayak gitu waktu kuliah?
 

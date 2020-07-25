@@ -165,7 +165,7 @@ K; What are the tools that you can use?
 
 **K:** Do you have any book, blog, or website that you like to read as references about UI/UX?
 
-**A:** I don't read a lot of UX books nowadays, I'm more into articles now. Back then I really liked reading UX books. There are two books that I like. First is [inaudible] because it's more about psychology, and Emotional Design from the famous Don Norman. It's also more about psychology, so that I can learn about the foundational concepts of UX. Nowadays I read self-growth and project development books. There is this book about UX writing that I like, it's not very complete but it's very applicable. It's called Microcopy by Kinneret Yifrah. She also often writes in Medium.
+**A:** I don't read a lot of UX books nowadays, I'm more into articles now. Back then I really liked reading UX books. There are two books that I like. First is Don't Make Me Think from Steve Krug because it's more about psychology, and Emotional Design from the famous Don Norman. It's also more about psychology, so that I can learn about the foundational concepts of UX. Nowadays I read self-growth and project development books. There is this book about UX writing that I like, it's not very complete but it's very applicable. It's called Microcopy by Kinneret Yifrah. She also often writes in Medium.
 
 **K:** There are a lot of psychology books there. When you studied communications in college, did you learn those too?
 
