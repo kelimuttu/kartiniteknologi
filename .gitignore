@@ -3,6 +3,7 @@
 
 ### Hugo ###
 # Generated files by hugo
+/docs/
 /public/
 /resources/_gen/
 

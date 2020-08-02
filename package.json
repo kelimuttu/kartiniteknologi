@@ -3,13 +3,10 @@
   "version": "1.0.0",
   "description": "Kartini Teknologi adalah podcast yang menampilkan perempuan Indonesia di dunia teknologi.",
   "scripts": {
-    "hugo": "hugo server -p 4321 -D -F -e development --bind=0.0.0.0",
-    "format": "yarn format:index && yarn format:content",
+    "format": "npm run format:index && npm run format:content",
     "format:index": "prettier --write \"*.{js,json,md}\"",
     "format:content": "prettier --write \"content/**/*.{md,html}\"",
-    "contributors:add": "all-contributors add",
-    "contributors:generate": "all-contributors generate",
-    "prepare": "yarn format"
+    "prepare": "npm run format"
   },
   "repository": {
     "type": "git",
@@ -23,7 +20,6 @@
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2",
-    "all-contributors-cli": "^6.15.0",
     "husky": "^4.2.5",
     "netlify-plugin-image-optim": "^0.3.0",
     "netlify-plugin-submit-sitemap": "^0.1.4",
@@ -31,7 +27,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "yarn contributors:generate && yarn prepare"
+      "pre-commit": "npm run prepare"
     }
   },
   "prettier": {
