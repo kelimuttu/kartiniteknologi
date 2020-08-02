@@ -49,7 +49,7 @@ type = "transcript"
 
 **G:** Hmm, interesting. Data yang biasanya nggak kepake itu kayak apa sih dan how to differentiate data seperti apa yang berguna dan data apa yang nggak berguna?
 
-**A:** Jadi kan di struktur DNA kita itu kan biasanya kalau bioinformatics itu kita mencari single nucleotide polymorphism, jadi nucleotide... nucleotide itu yang A, T, G, C gitu-gitu, jadi DNA itu terdiri dari nucleotide. Jadi kalau nucleotide-nya itu beda, itu yang kita cari, yang beda dari spesies-spesies lain. Karena per mutasi itu bisa jadi bermanfaat untuk menunjukkan suatu sifat di organisme itu. Nah terus, untuk nentuin yang bermanfaat apa nggak itu tuh kita mesti tau anotasinya, jadi cari lagi misal di sekeliling situ ada gen apa, itu bakal jadi protein apa, yang kayak gitu-gitu makanya. Kita harus tau biologinya dan untuk tau itu kita harus ngegabungin data satu genom itu dengan data-data lain. 
+**A:** Jadi kan di struktur DNA kita itu kan biasanya kalau bioinformatics itu kita mencari single nucleotide polymorphism, jadi nucleotide... nucleotide itu yang A, T, G, C gitu-gitu, jadi DNA itu terdiri dari nucleotide. Jadi kalau nucleotide-nya itu beda, itu yang kita cari, yang beda dari spesies-spesies lain. Karena per mutasi itu bisa jadi bermanfaat untuk menunjukkan suatu sifat di organisme itu. Nah terus, untuk nentuin yang bermanfaat apa nggak itu tuh kita mesti tau anotasinya, jadi cari lagi misal di sekeliling situ ada gen apa, itu bakal jadi protein apa, yang kayak gitu-gitu makanya. Kita harus tau biologinya dan untuk tau itu kita harus ngegabungin data satu genom itu dengan data-data lain.
 
 **G:** Nah biasanya si datanya itu disimpan dalam bentuk apa sih? Aku kan taunya cuma csv, gitu-gitu.
 
@@ -207,7 +207,7 @@ type = "transcript"
 
 **K:** Saklek, ya.
 
-**A:** Iya saklek gitu orangnya.  INFJ, JavaScript, advocate gitu, orangnya abstrak tapi dia community, mereka sangat concerned ke community, jadi oh itu JavaScript banget sih. 
+**A:** Iya saklek gitu orangnya. INFJ, JavaScript, advocate gitu, orangnya abstrak tapi dia community, mereka sangat concerned ke community, jadi oh itu JavaScript banget sih.
 
 **G:** Kak Adzkia sendiri apa?
 
@@ -243,7 +243,7 @@ type = "transcript"
 
 **A:** Tapi mereka nggak ngoding kan?
 
-**G:** On the job nggak, mereka kuliahnya ngoding juga, cuma sekarang lagi di desain. Tapi kenapa Bash ESTJ ya? 
+**G:** On the job nggak, mereka kuliahnya ngoding juga, cuma sekarang lagi di desain. Tapi kenapa Bash ESTJ ya?
 
 **A:** Bash? Dia kan kayak ISTJ, dia saklek tapi gara-gara extrovert dia tuh suka ngatur-ngatur gitu.
 

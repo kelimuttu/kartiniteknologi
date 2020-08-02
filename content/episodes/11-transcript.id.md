@@ -7,7 +7,7 @@ slug = "11/transcript"
 type = "transcript"
 +++
 
-**Kiki (K)**: Halo semuanya, selamat datang di Kartini Teknologi. Ini episode yang kesebelas kalau nggak salah, kita udah lumayan lama nggak *record* episode baru, sori banget. Bahkan kayaknya yang episode 10 itu kita rekam kayak bulan November, Oktober gitu nggak sih Galuh?
+**Kiki (K)**: Halo semuanya, selamat datang di Kartini Teknologi. Ini episode yang kesebelas kalau nggak salah, kita udah lumayan lama nggak _record_ episode baru, sori banget. Bahkan kayaknya yang episode 10 itu kita rekam kayak bulan November, Oktober gitu nggak sih Galuh?
 
 **Galuh (G):** Iya kayaknya.
 
@@ -51,7 +51,7 @@ type = "transcript"
 
 **K:** Awal tertarik ambil jurusan IT kenapa tuh dulu? Atau emang sejak kecil pengen ambil IT gitu pas kuliah atau gimana?
 
-**A:** Waktu SMP emang kepikiran ya, maksudnya ah, mau ambil *informatics*. Soalnya kenapa tertarik, soalnya dari waktu SMP itu kan pas lagi *hype-hype*-nya program pemerintah dengan label RSBI, sekolah bertransfer internasional something. Nah pas itu tuh ada tes masuknya, dan salah satu tes masuknya itu ya sebenernya cuma ngetik biasa, ngetik satu paragraf pake Microsoft Word, dan itu Word-nya yang masih 2003, tapi ya di satu paragraf itu ya udah ada macem-macem, ada teks yang di-bold, ada yang di-italic, ada yang di-underline, dan di situ aku sama sekali nggak bisa cuma nyelesain paragrafnya doang, padahal emang sebenarnya dari kelas 6 SD itu emang sering ke warnet kan, cuma ya udah di warnet itu paling browse doang, nyari-nyari gambar di Google, terus nggak kepikiran untuk itu, belajar-belajar software yang lain. Nah Alhamdulillah-nya sih dapet program itu kan, aku udah mulai mindset ke diri sendiri, aku tuh harus jago di sini. Berjalan kelas 7 sampai 9 itu ya, aku bisa ngeklaim sih aku itu ceweknya yang paling pinter belajar TIK, soalnya waktu kelas 8 aku sempet buatin PR proyek akhir itu buat animasi pake Macromedia Flash, aku itu sampe bikinin temen-temen aku, tambah aku jadi 5, jadi aku ngerjain 5 proyek sendirian.
+**A:** Waktu SMP emang kepikiran ya, maksudnya ah, mau ambil _informatics_. Soalnya kenapa tertarik, soalnya dari waktu SMP itu kan pas lagi _hype-hype_-nya program pemerintah dengan label RSBI, sekolah bertransfer internasional something. Nah pas itu tuh ada tes masuknya, dan salah satu tes masuknya itu ya sebenernya cuma ngetik biasa, ngetik satu paragraf pake Microsoft Word, dan itu Word-nya yang masih 2003, tapi ya di satu paragraf itu ya udah ada macem-macem, ada teks yang di-bold, ada yang di-italic, ada yang di-underline, dan di situ aku sama sekali nggak bisa cuma nyelesain paragrafnya doang, padahal emang sebenarnya dari kelas 6 SD itu emang sering ke warnet kan, cuma ya udah di warnet itu paling browse doang, nyari-nyari gambar di Google, terus nggak kepikiran untuk itu, belajar-belajar software yang lain. Nah Alhamdulillah-nya sih dapet program itu kan, aku udah mulai mindset ke diri sendiri, aku tuh harus jago di sini. Berjalan kelas 7 sampai 9 itu ya, aku bisa ngeklaim sih aku itu ceweknya yang paling pinter belajar TIK, soalnya waktu kelas 8 aku sempet buatin PR proyek akhir itu buat animasi pake Macromedia Flash, aku itu sampe bikinin temen-temen aku, tambah aku jadi 5, jadi aku ngerjain 5 proyek sendirian.
 
 **G:** Mantap, confidence-nya suka banget nih.
 
@@ -143,7 +143,7 @@ type = "transcript"
 
 **G:** Terus kalau misalnya di luar kantor sendiri, ada proyek lain nggak yang lagi diulik atau kayak side projects gitu?
 
-**A:** Kalau kayak side project lebih ke project diri sendiri aja sih, kalau kayak kerjaan sampingan ya ada cuma yang... ya udah, yang ringan-ringan aja aku ngambilnya, yang WordPress aja kalau sampingan mah. Kalau sekarang sih karena aku lagi nggak... semoga nggak panas-panas tai ayam ya, sekarang sih lagi coba-coba belajar Golang kan, kayak yang aku mention di awal sekarang kayaknya asik sih kalau bisa backend. 
+**A:** Kalau kayak side project lebih ke project diri sendiri aja sih, kalau kayak kerjaan sampingan ya ada cuma yang... ya udah, yang ringan-ringan aja aku ngambilnya, yang WordPress aja kalau sampingan mah. Kalau sekarang sih karena aku lagi nggak... semoga nggak panas-panas tai ayam ya, sekarang sih lagi coba-coba belajar Golang kan, kayak yang aku mention di awal sekarang kayaknya asik sih kalau bisa backend.
 
 **G:** Kenapa buat backend... alasannya apa nih memilih untuk belajar Golang dibandingkan programming language yang lain?
 
@@ -225,7 +225,7 @@ type = "transcript"
 
 **A:** Oke. Kalau berapa lama sih... karena aku rada-rada perfeksionis jadi at least aku butuh dua minggu untuk nyiapin satu talk gitu. Emang lama sih, cuma ya udah biar mateng aja sih kalau menurut aku. Awalnya itu sebenernya ada dua pilihannya sekarang, entah dapet dari organizer atau nyari, bener-bener temanya aku yang propose. Kalau temanya itu dikasih dari organizer enak sih, tinggal... paling aku browsing-browsing materi tentang tema itu kemudian yang aku bilang tadi sekiranya unpopular gitu ya udah aku proposenya itu. Kalau emang bener-bener aku yang propose topik sendiri ya sama aja sih, aku tetep browsing-browsing artikel, nyari yang unpopular, terus yang... kok yang kayaknya kombinasi A sama B belom ada yang bikin yah. Terus nyari-nyari, propose, kalau diterima ya udah aku lanjutin lagi nyari source. Nyari source, habis itu aku biasanya salin transcript dulu, jadinya ditulis dulu, nah setelah jadi artikel, udah jadi, baru dari situ aku bikin presentasi. Nah abis bikin presentasi, ya udah tinggal latihan sih, latihan ngomong depan kaca, kayak gitu. Sampe ya hari H. Hari H ya sama siapin ini sih, kalau aku, siapin short link gitu buat presentasinya biar gampang aja pas hari H nya, kalau misalnya pakai laptop lain akhirnya gak usah pake laptop aku. Kayak gitu sih. Cuma kalau dari preparing ide sendiri aku sih lebih prefer untuk ditulis kayak... gimana ya, transcript yang aku bakal omongin. Emang sih masih nervous juga pas hari H, cuma jadinya less nervous karena aku udah punya transcript sendiri, udah latihan pake transcriptku sendiri.
 
-**K:** Keren banget ya, maksudnya komplit banget gitu loh proses persiapannya. Bahkan kadang aku pernah denger juga beberapa orang ada yang nyiapin beberapa pertanyaan yang kira-kira bakal ditanyain gitu pas hari H-nya gitu. Jadi impressed banget sama speaker-speaker yang nyiapin sebegitu niatnya. 
+**K:** Keren banget ya, maksudnya komplit banget gitu loh proses persiapannya. Bahkan kadang aku pernah denger juga beberapa orang ada yang nyiapin beberapa pertanyaan yang kira-kira bakal ditanyain gitu pas hari H-nya gitu. Jadi impressed banget sama speaker-speaker yang nyiapin sebegitu niatnya.
 
 **G:** Dan kayanya 2 minggu juga nggak kelamaan sih, karena kadang-kadang emang kita tuh baru... apa ya, kita itu baru bisa ngerefine talk itu misalnya udah sehari, dua jam aja ngerjain terus tinggal tidur, pokoknya kita nggak bisa sentuh lagi, terus besoknya kita ngerjain lagi dateng inspirasi baru. Kayanya aku sendiri nggak pernah bener-bener perfectly gitu ya nulis talk, jadi, dalem sehari, 7 jam gitu misal berturut-turut ngerjain, nggak pernah kejadian sih. Karena kadang-kadang pas ditinggal tidur terus kita bangun-bangun dapet inspirasi, baru bisa lanjut lagi gitu. I think dua minggu actually nggak terlalu lama juga sih.
 
@@ -233,7 +233,7 @@ type = "transcript"
 
 **G:** Iya pas lah.
 
-**K:** Oke, well, aku ada satu pertanyaan tambahan yang sebenernya ini bahasan dari Twitter. Kapan hari itu Adrin itu sempet nge-tweet tentang *kampung*-less gitu, jadi Adrin nggak ngerasa kayak... apa namanya, punya kampung gitu kan. Karena emang dari dulu terbiasa tinggal di banyak tempat kan.
+**K:** Oke, well, aku ada satu pertanyaan tambahan yang sebenernya ini bahasan dari Twitter. Kapan hari itu Adrin itu sempet nge-tweet tentang _kampung_-less gitu, jadi Adrin nggak ngerasa kayak... apa namanya, punya kampung gitu kan. Karena emang dari dulu terbiasa tinggal di banyak tempat kan.
 
 **A:** Iya.
 

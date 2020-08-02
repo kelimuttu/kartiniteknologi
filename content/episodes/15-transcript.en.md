@@ -15,9 +15,9 @@ type = "transcript"
 
 ** F: ** Are there really many requests? [Laughter] Good.
 
-** K: ** Good?** 
+** K: ** Good?\*\*
 
-F: ** In the middle of a pandemic, good.
+F: \*\* In the middle of a pandemic, good.
 
 ** K: ** Thank God. That's good .. Yeah, even one of Kartini Teknologi's guests has a request from Farah to be invited, so, it's time ..
 
@@ -25,7 +25,7 @@ F: ** In the middle of a pandemic, good.
 
 ** K: ** Farah, maybe if you are familiar with the tech community in Indonesia, not only in Jakarta I'm sure, you might have heard the name Farah. She is like the queen of Indonesian tech community. So, she is now the organizer of AWS Group Jakarta. But I'm sure, there are a lot of her roles, not just the AWS User Group. So later we will talk more about the tech community in Indonesia and Farah herself. But before that, as usual we start from how you got interested in tech. How is the story?
 
-** F: ** So actually when I was little I was often invited by my late father to his office. He gave the Windows 95 guide book. I was just a little kid, I didn't know why he gave it to me. He told me it's so that I have something to play with. My dad was also quite busy. Then I read it, out of curiosity. I got hooked shortly after, the more pages that I read, they were so colorful. When kids see colors, they usually become hyperactive, happy, curious, right? 
+** F: ** So actually when I was little I was often invited by my late father to his office. He gave the Windows 95 guide book. I was just a little kid, I didn't know why he gave it to me. He told me it's so that I have something to play with. My dad was also quite busy. Then I read it, out of curiosity. I got hooked shortly after, the more pages that I read, they were so colorful. When kids see colors, they usually become hyperactive, happy, curious, right?
 
 ** K: ** But you have just read the book right? You haven't seen the computer yet.
 
@@ -93,7 +93,7 @@ F: ** In the middle of a pandemic, good.
 
 ** K: ** That was middle school, right? Then, did you finally take IT in college?
 
-** F: ** No. [Laugh]. I went to college to major in International Relations. 
+** F: ** No. [Laugh]. I went to college to major in International Relations.
 
 ** K: ** Oh, great! I just found out Farah majored in International Relations (IR). Why is that?
 
@@ -101,11 +101,11 @@ F: ** In the middle of a pandemic, good.
 
 ** K: ** Yes, but then you finally returned to technology. What's the story?
 
-** F: ** IR was also my childhood dream. When I was at this airport, I was looking at this person who seemed to be a diplomat. He was wearing a suit, very neat, talked in English. Then I was like, I want to become like that person. 
+** F: ** IR was also my childhood dream. When I was at this airport, I was looking at this person who seemed to be a diplomat. He was wearing a suit, very neat, talked in English. Then I was like, I want to become like that person.
 
 ** K: ** I see. So, the initial goal was to become a diplomat? Oooh... great! But then why did you pivot to technology again?
 
-** F: ** Because it's fun. And the people in it are more diverse? So yeah, I thought oh I could still survive in technology. So I finally decided to return to tech again. But since I majored in IR, I wasn't following the technology trends in the past few years. So it was quite difficult to catch up with everything. 
+** F: ** Because it's fun. And the people in it are more diverse? So yeah, I thought oh I could still survive in technology. So I finally decided to return to tech again. But since I majored in IR, I wasn't following the technology trends in the past few years. So it was quite difficult to catch up with everything.
 
 ** K: ** So you had to catch up on a lot of things, because you majored in IR. But it seems like you're focusing on communities more, right?
 
@@ -113,7 +113,7 @@ F: ** In the middle of a pandemic, good.
 
 ** K: ** Well, how did it start? Did you enjoy communities from the start? Or did you just jump in like that?
 
-** F: ** At first? Back then I often helped to answer questions from friends who were just learning. And as time passed by,  we moved to Telegram, so usually we were on Facebook but then we moved to Telegram. Then I often noticed there were things like spams. After a while, I became an administrator. So that's how it started, organizing a group... then it didn't take long for me to go to other meetups and then I thought "oh, seems like there are other things that can be improved. So, in addition to being more visible, the benefits will also be more beneficial to other people." From there, I braved myself to become a volunteer. The first time was in Python Indonesia. There was one year where I organized all offline meetups in Jakarta.  
+** F: ** At first? Back then I often helped to answer questions from friends who were just learning. And as time passed by, we moved to Telegram, so usually we were on Facebook but then we moved to Telegram. Then I often noticed there were things like spams. After a while, I became an administrator. So that's how it started, organizing a group... then it didn't take long for me to go to other meetups and then I thought "oh, seems like there are other things that can be improved. So, in addition to being more visible, the benefits will also be more beneficial to other people." From there, I braved myself to become a volunteer. The first time was in Python Indonesia. There was one year where I organized all offline meetups in Jakarta.
 
 ** K: ** Wow. Including Python 2018 did we meet?
 
@@ -139,11 +139,11 @@ F: ** In the middle of a pandemic, good.
 
 ** F: ** Then, JVM too.
 
-** K: ** Oh, my. Four. 
+** K: ** Oh, my. Four.
 
 ** F: ** [Laughter]. There are so many that you can't count. [Laugh].
 
-** K: ** What's your role—are you an administrator, or also the event organizer, or what? 
+** K: ** What's your role—are you an administrator, or also the event organizer, or what?
 
 ** F: ** For some of them I'm the administrator, but for some others I'm also the organizer. Sometimes even though I don't take care of the offline meetup directly, if for example there is a sponsor, I usually handle it. So it's just like being a community representative from one community to another.
 
@@ -157,7 +157,7 @@ F: ** In the middle of a pandemic, good.
 
 ** K: ** I see. Means it's different depending on the dynamics of each community. Hm, what are the ups and downs of getting involved in the tech communities in Indonesia?
 
-** F: ** There are a lot of things I enjoy. Meeting new people, learning new things, not even just a matter of technology. But for example there is a fresh grad, who wants to apply for work, but they are confused about the preparation. Usually there are many people who would like to help. Oh these are the things that you need to prepare. So, it's not just a matter of hard skills, there are also soft skills. If it's sad, because there aren't as many people who want to be community administrators as they want to be in the community. So sometimes, we feel, I feel,  there are not many people who want take care of the community. Moreover, I have quite a lot of positions to take care of. Sometimes people even say, "you never sleep don't you?" Oh, for those of you who don't know, people usually call me Sosis, Farah, Mbak Sosis, or Mas Sosis, in the Telegram.
+** F: ** There are a lot of things I enjoy. Meeting new people, learning new things, not even just a matter of technology. But for example there is a fresh grad, who wants to apply for work, but they are confused about the preparation. Usually there are many people who would like to help. Oh these are the things that you need to prepare. So, it's not just a matter of hard skills, there are also soft skills. If it's sad, because there aren't as many people who want to be community administrators as they want to be in the community. So sometimes, we feel, I feel, there are not many people who want take care of the community. Moreover, I have quite a lot of positions to take care of. Sometimes people even say, "you never sleep don't you?" Oh, for those of you who don't know, people usually call me Sosis, Farah, Mbak Sosis, or Mas Sosis, in the Telegram.
 
 ** K: ** It's because your nickname is Sosispanggang isn't it?
 
@@ -171,7 +171,7 @@ F: ** In the middle of a pandemic, good.
 
 ** G: ** From your experience after having been involved in the world of the Indonesian community, according to you what are the characteristics of the technology community in Indonesia? Is it easy to manage, or are there a lot of initiative, or are there other characteristics that are particularly striking?
 
-** F: ** Easy to manage, yeah, and also the initiatives are so many that we don't know what to do because of how good the initiatives are, we sometimes get confused about how to coordinated them. Then there are also many who are not from Jakarta and they want to have an offline meetup but are confused about who to contact. But there are also those who really want to do whatever they want. But in communities, we cannot tolerate bullying, flaming, those things are not acceptable in the community. Because we want the community to be a place for everyone to learn, share together without having to see differences such as "oh A has been in the world of technology for many years while the others have  just started. But B feels awkward if they want to talk to A because they are afraid of being mocked, or something like that. That's the challenge for myself as an organizer, how to create a community that is supportive.
+** F: ** Easy to manage, yeah, and also the initiatives are so many that we don't know what to do because of how good the initiatives are, we sometimes get confused about how to coordinated them. Then there are also many who are not from Jakarta and they want to have an offline meetup but are confused about who to contact. But there are also those who really want to do whatever they want. But in communities, we cannot tolerate bullying, flaming, those things are not acceptable in the community. Because we want the community to be a place for everyone to learn, share together without having to see differences such as "oh A has been in the world of technology for many years while the others have just started. But B feels awkward if they want to talk to A because they are afraid of being mocked, or something like that. That's the challenge for myself as an organizer, how to create a community that is supportive.
 
 .** K: ** Which means creating a healthy community.
 
@@ -203,7 +203,7 @@ F: ** In the middle of a pandemic, good.
 
 .** K: ** Okay. You've been in the communities for a long time. What do you think, are the benefits in joining communities?
 
-** F: ** Fortunately, there are a lot of them. As I said, from meeting new people, new knowledge, I'm thankful if  there are many who feel helped. For example, getting a new job, getting a new business opportunity, a lot that can be obtained from the community itself.
+** F: ** Fortunately, there are a lot of them. As I said, from meeting new people, new knowledge, I'm thankful if there are many who feel helped. For example, getting a new job, getting a new business opportunity, a lot that can be obtained from the community itself.
 
 ** K: ** What about your personal experience? Can you tell us?
 
@@ -227,7 +227,7 @@ F: ** In the middle of a pandemic, good.
 
 ** G: ** Now, talk about improvement. According to Farah itself, what do you think can be improved from the technology community in Indonesia? For example, whether it's inclusivity, or maybe in Indonesia we're still too Java-centric, or is there another opinion?
 
-** F: ** Yeah. I still feel that the community is now still centered on Java. Although now it may start to spread. Some are in Bali, some are in Medan, some are in Kalimantan. But not as much as in Java. Also, one of the members in a women community reached out to me. She really wants to be join (the communities), but afraid of getting unpleasant treatment.  So, there are some women who sometimes feel uncomfortable. It's also still our own homework. Then also, for example, during a meetup, they keep discussing basic topics and do not go up to the next level. At the advanced level as well, sometimes many people are still new, sometimes they still don't understand. So there comes a rather big gap. That's the problem now.
+** F: ** Yeah. I still feel that the community is now still centered on Java. Although now it may start to spread. Some are in Bali, some are in Medan, some are in Kalimantan. But not as much as in Java. Also, one of the members in a women community reached out to me. She really wants to be join (the communities), but afraid of getting unpleasant treatment. So, there are some women who sometimes feel uncomfortable. It's also still our own homework. Then also, for example, during a meetup, they keep discussing basic topics and do not go up to the next level. At the advanced level as well, sometimes many people are still new, sometimes they still don't understand. So there comes a rather big gap. That's the problem now.
 
 ** K: ** But as a woman in the technology community which is more dominated by men, from your own experience, what is the challenge as a woman in the technology community?
 
@@ -243,7 +243,7 @@ F: ** In the middle of a pandemic, good.
 
 ** K: ** I see. Yes usually, if they feel they are close to certain powerful people, they feel like they have the power to do things like that.
 
-** G: ** Yes,and  ifpeople ask for an exception that's a problem right? If, for example, you only allow one person, later someone else will ask for the same treatment as well.
+** G: ** Yes,and ifpeople ask for an exception that's a problem right? If, for example, you only allow one person, later someone else will ask for the same treatment as well.
 
 ** F: ** That's right. So you must be fair with everyone, right?
 
@@ -281,11 +281,11 @@ F: ** In the middle of a pandemic, good.
 
 ** K: ** You have organized conferences right? What are the challenges? Specifically in Indonesia. Because maybe the dynamics are different between outside and in Indonesia. For example, in Indonesia there are not yet many who are familiar with technology conferences, so we can't make tickets at high prices, either. What is the experience of being a conference organizer in Indonesia?
 
-** F: ** Based on my experience, it was more about the venue, then also in that time span, how many speakers can give talks at the conference? Then if for example there is a sudden change, it must also be communicated. Sometimes there is also a speaker who suddenly can't give a talk, how do we handle that? It's more nerve-wracking on D-day than the previous months. 
+** F: ** Based on my experience, it was more about the venue, then also in that time span, how many speakers can give talks at the conference? Then if for example there is a sudden change, it must also be communicated. Sometimes there is also a speaker who suddenly can't give a talk, how do we handle that? It's more nerve-wracking on D-day than the previous months.
 
 ** K: ** Yeah, for sure. When it comes to sponsorship, in Indonesia itself we may not have a lot of conferences like other countries. Does it impact you when you ask for sponsorships? Is it harder to give the companies justification?
 
-** F: ** It was difficult at the beginning. Because we started having conferences in 2017, right? For those who want to sponsor, what can they get? As we continued to have more conferences, it got easier.  There was even one instance where the sponsor contacted us directly. "When are you having a conference? So we can help."
+** F: ** It was difficult at the beginning. Because we started having conferences in 2017, right? For those who want to sponsor, what can they get? As we continued to have more conferences, it got easier. There was even one instance where the sponsor contacted us directly. "When are you having a conference? So we can help."
 
 ** K: ** Was offered?
 
@@ -297,11 +297,11 @@ F: ** In the middle of a pandemic, good.
 
 .** G: ** You must be proud, right, considering in the past it was very difficult to get sponsors, and now you're just waiting for them to contact you.
 
- ** F: ** Yes.
+** F: ** Yes.
 
 ** K: ** Some organizers out there are organizing conferences for profit. In Indonesia are there such organizers?
 
-** F: ** I think so far, there isn't anyone who is really looking for profit. But I don't know, what did you mean by "looking for money"? Because we ourselves also collect money, but we will use the money for next year's conference. 
+** F: ** I think so far, there isn't anyone who is really looking for profit. But I don't know, what did you mean by "looking for money"? Because we ourselves also collect money, but we will use the money for next year's conference.
 
 ** K: ** So you're using it for the benefit of the community again?
 
@@ -327,7 +327,7 @@ F: ** In the middle of a pandemic, good.
 
 ** F: ** No, iIdidn't come. But I'm also not the organizer.
 
-** K: ** Oh, okay. I remember. There was one of the Tech Speakers, Anjana Vakil, Luh. Do you know? 
+** K: ** Oh, okay. I remember. There was one of the Tech Speakers, Anjana Vakil, Luh. Do you know?
 
 **G: ** Yes, that's why at that time some people (from Tech Speakers) came.
 
@@ -353,13 +353,13 @@ F: ** In the middle of a pandemic, good.
 
 ** F: ** Yes, raising the standard.
 
-** K: ** Why did you say that SarCom is like the new standard in Indonesia? What  distinguishes them? And what makes them good?
+** K: ** Why did you say that SarCom is like the new standard in Indonesia? What distinguishes them? And what makes them good?
 
 ** F: ** Like I said, proper setting. Then, the concept is really cool too. Then the speakers too. The topics are also more diverse and cover everything, you know. Like the complete package.
 
 ** K: ** Okidoki. Finally, are there messages for friends of Kartini Technology who might be interested in joining the community?
 
-** F: ** In my opinion, for friends who are interested in joining the community, please join and don't hesitate to speak up what's in your mind, right? If there really is something that can be improved, or you are really interested in joining to be involved in the community itself, organizing. Let us know. Let me kno.  We will both think about how. Because the more people who join to take care of the community, the more fun anyway. So, hopefully with this podcast, more people will be interested in joining the community. And the community is not as scary as you think.
+** F: ** In my opinion, for friends who are interested in joining the community, please join and don't hesitate to speak up what's in your mind, right? If there really is something that can be improved, or you are really interested in joining to be involved in the community itself, organizing. Let us know. Let me kno. We will both think about how. Because the more people who join to take care of the community, the more fun anyway. So, hopefully with this podcast, more people will be interested in joining the community. And the community is not as scary as you think.
 
 ** K: ** Farah doesn't bite, my friends.
 
@@ -377,7 +377,7 @@ F: ** In the middle of a pandemic, good.
 
 ** F: ** The consequences vary. Some people have been banned for several days to banned forever. Because it's also online, sometimes it's confusing what to do.
 
-.** K: ** Yes, that's right. Anyway, that's the end of our questions actually.  Hopefully this will be useful for you who want to join or want to be an organizer in the technology community in Indonesia. So, thank you Farah for taking the time to chat with Kartini Teknologi.
+.** K: ** Yes, that's right. Anyway, that's the end of our questions actually. Hopefully this will be useful for you who want to join or want to be an organizer in the technology community in Indonesia. So, thank you Farah for taking the time to chat with Kartini Teknologi.
 
 .** F: ** Yes, thank you very much Kiki, Galuh for inviting me. I'm so happy I can share with people. I also want to correct those who say that "Farah is grumpy." No, no, not grumpy. I am not that crazy.
 
