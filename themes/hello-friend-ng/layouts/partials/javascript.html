@@ -6,11 +6,13 @@
 {{ $secureJS := $js | resources.Fingerprint "sha512" }}
 <script type="text/javascript" src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 
-<script src="https://cdn.jsdelivr.net/gh/greghub/green-audio-player/dist/js/green-audio-player.min.js"></script>
-
+<!-- Custom audio Player -->
+{{ $audioplayer := resources.Get "js/green-audio-player/main.js" | resources.Minify }}
+<script src="{{ $audioplayer.Permalink }}"></script>
 <script>
     new GreenAudioPlayer('.audioplayer');
 </script>
+<!-- End of custom audio Player -->
 
 {{- if .Site.GoogleAnalytics }}
     <script>
