@@ -11,7 +11,7 @@ type = "transcript"
 
 **Galuh (G)**: Aku Galuh.
 
-**K:** So, kita sebutnya ini episode 0 ya, jadi kayak array gitu loh, mulainya dari 0 dulu lalu 1, 2, 3 dst. Dan di episode 0 ini kita ingin ngenalin diri dulu sebagai host, kata orang kan tak kenal maka tak sayang nih. Mungkin cerita sedikit tentang kenapa kita bikin podcast ini, tujuannya apa, dan kasih bocoran juga tentang guest yang akan ngobrol sama kita. 
+**K:** So, kita sebutnya ini episode 0 ya, jadi kayak array gitu loh, mulainya dari 0 dulu lalu 1, 2, 3 dst. Dan di episode 0 ini kita ingin ngenalin diri dulu sebagai host, kata orang kan tak kenal maka tak sayang nih. Mungkin cerita sedikit tentang kenapa kita bikin podcast ini, tujuannya apa, dan kasih bocoran juga tentang guest yang akan ngobrol sama kita.
 
 **K:** Mungkin dari gue dulu ya perkenalannya. So halo, nama saya Kiki, tapi di Internet lebih sering pake nama @kelimuttu sih, double t, karena itu yang paling unik yang membedakan dengan Kiki yang lain. Kalau sekarang sih gue sendiri kerja di Mozilla sebagai Community Coordinator, jadi gue kebanyakan ngurus salah satu volunteer program gitu namanya Mozilla Reps karena di Mozilla sendiri itu kan produknya kebanyakan open-source, jadi banyak banget idbantu volunteer sama kontributor atau dari komunitas gitu. jadi di mozilla sendiri kita punya satu tim, namanya Communtiy Development team yaitu tim gue sendiri sebenernya. Yang fungsinya itu kayak bridging antara produk dengan tim teknologi dengan komunitas gitu. Jadi tugas sehari-hariku ya ngurus komunitas itu, bikin program, campaign, community strategy, ngadain community meeting, provide resources.
 
@@ -55,7 +55,7 @@ type = "transcript"
 
 **K:** Berarti Itu dari SD?
 
-**G:** Iya dari SD haha. Dan 
+**G:** Iya dari SD haha. Dan
 
 **K:** OMG OK. Gue dulu belum kenal Internet.
 
@@ -65,7 +65,7 @@ type = "transcript"
 
 **K:** Itu pas SMP?
 
-**G:** Iya pas SMP haha. Soalnya pas blogging, aku kan awalnya di circle blogger Indonesia, pas SMP aku  luckily ketemu blogger yang dari seluruh dunia gitu. Yang unik mereka gak cuma blogging, tapi mereka bikin website mereka sendiri, gak pake Blogger atau Wordpress, mereka bener-bener bikin sendiri. Dari situ yang awalnya aku masih pake platform, jadi belajar bikin website PHP. Karena mereka selain blogging juga nyediain tutorialnya, "eh punya tutorial PHP script" dan dari situ aku belajar. Dari situ gak cuma belajar programming, bahasa inggris juga iya, dll. Pas mikirin mau jadi apa sebenernya gak tau kerjaan di dunia teknologi itu kaya gimana bentuknya, karena keluarga aku juga gak ada yang dari tech, cuma apa ya kalau kerja pengennya di depan laptop aja gitu. Tapi gak kebayang kalo mau jadi programmer, web developer, even data engineer. Pas kuliahpun aku cuma kaya, pokoknya aku harus belajar computer science, gak kebayang belajar yang lain.
+**G:** Iya pas SMP haha. Soalnya pas blogging, aku kan awalnya di circle blogger Indonesia, pas SMP aku luckily ketemu blogger yang dari seluruh dunia gitu. Yang unik mereka gak cuma blogging, tapi mereka bikin website mereka sendiri, gak pake Blogger atau Wordpress, mereka bener-bener bikin sendiri. Dari situ yang awalnya aku masih pake platform, jadi belajar bikin website PHP. Karena mereka selain blogging juga nyediain tutorialnya, "eh punya tutorial PHP script" dan dari situ aku belajar. Dari situ gak cuma belajar programming, bahasa inggris juga iya, dll. Pas mikirin mau jadi apa sebenernya gak tau kerjaan di dunia teknologi itu kaya gimana bentuknya, karena keluarga aku juga gak ada yang dari tech, cuma apa ya kalau kerja pengennya di depan laptop aja gitu. Tapi gak kebayang kalo mau jadi programmer, web developer, even data engineer. Pas kuliahpun aku cuma kaya, pokoknya aku harus belajar computer science, gak kebayang belajar yang lain.
 
 **K:** Oh ya?
 
@@ -83,7 +83,7 @@ type = "transcript"
 
 **G:** Itu emang udah ada di kampusnya atau...?
 
-**K:** Iya udah ada emang ada komunitas itu di kampus. Jadi sebenernya aku tahun pertama ikut BEM, terus di BEM ada beberapa temen yang ikut komunitas itu, dan tahun kedua aku ikut DOSCOM. Dan baru tau oh ternyata gak cukup hanya dengan ngandelin apa yang kita dapetin dari kuliah kalau emang yang mau get into tech, kalau aku ngerasanya sih gitu ya. Jadi penting banget untuk belajar  di luar apa yang kita dapet di conventional institution. Gue promosi komunitas soalnya kerjanya di komunitas haha, tapi serius beneran komunitas sangat membantu.
+**K:** Iya udah ada emang ada komunitas itu di kampus. Jadi sebenernya aku tahun pertama ikut BEM, terus di BEM ada beberapa temen yang ikut komunitas itu, dan tahun kedua aku ikut DOSCOM. Dan baru tau oh ternyata gak cukup hanya dengan ngandelin apa yang kita dapetin dari kuliah kalau emang yang mau get into tech, kalau aku ngerasanya sih gitu ya. Jadi penting banget untuk belajar di luar apa yang kita dapet di conventional institution. Gue promosi komunitas soalnya kerjanya di komunitas haha, tapi serius beneran komunitas sangat membantu.
 
 **G:** Iya sih, anehnya aku waktu kuliah gak begitu aware sama komunitas di luar kampus, baru tau pas akhir-akhir mau lulus. Nggak tau kenapa ya.
 
@@ -103,7 +103,7 @@ type = "transcript"
 
 **K:** Gue sendiri juga dulu ga kebayang ada role kaya community manager, lima tahun lalu gak kebayang kerjaan community manager. Kita juga mau mengenalkan lebih banyak role di bidang teknologi.
 
-**G:** Aku juga baru kebayang ada suatu role ketika ketemu orang atau tau ada orang yang role-nya sebagai X. 
+**G:** Aku juga baru kebayang ada suatu role ketika ketemu orang atau tau ada orang yang role-nya sebagai X.
 
 **K:** Mungkin selain itu aku juga pengen bikin safe space untuk cewek-cewek untuk ngomongin kerjaan mereka gitu loh. Gue suka selama ini ngerasanya kalo ngomongin kerjaan apalagi technical masih suka ngerasa gak pede apalagi sama temen-temen programmer lain yang cowok-cowok. Gak tau sih ya itu gue aja yang ngerasa gitu atau yang lain juga. Kita pengen bikin safe space untuk cerita tentang kerjaan mereka, the technical side, mungkin kan kalau sama cewek lebih leluasa mungkin lebih enak aja ngobrolnya.
 

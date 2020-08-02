@@ -19,7 +19,7 @@ type = "transcript"
 
 **D:** Yes, about how to mention the name of the university, you can actually say it Indonesian style, RWTH is actually more correct and many Germans prefer the pronounciation. If you explain it the American way it gets too long. People in Germany pronounce it RWTH the Indonesian way.
 
-**Galuh (G):**  Oh so it's the same way of pronounciation?
+**Galuh (G):** Oh so it's the same way of pronounciation?
 
 **D:** Yes, so pronounciation in German and Indonesian are almost identical, so for Indonesians learning German may be relatively easier than native English speakers.
 
@@ -29,7 +29,7 @@ type = "transcript"
 
 **K:** When did you move to Germany for your study?
 
-**D:** I started my study in mid-2019, hmm wait is this the introduction or...? 
+**D:** I started my study in mid-2019, hmm wait is this the introduction or...?
 
 **K:** It's okay.
 
@@ -37,11 +37,11 @@ type = "transcript"
 
 **K:** Wow, it's quite a long journey. But, let's talk about how you were interested in technology. Like the beginning where you started to think that "I think I like technology. I would like to continue studying computers." When did you start?
 
-**D:** I'm pretty pragmatic, though. I saw more job vacancies in computer science, they need a diploma and the cheapest major is information systems, so I took it. Sorry it's not very inspiring. *Laughs*
+**D:** I'm pretty pragmatic, though. I saw more job vacancies in computer science, they need a diploma and the cheapest major is information systems, so I took it. Sorry it's not very inspiring. _Laughs_
 
-**K:** *Laughs*. But that's okay though. For people who really pursue to enter the technology industry for the money, I think there's no shame on that.
+**K:** _Laughs_. But that's okay though. For people who really pursue to enter the technology industry for the money, I think there's no shame on that.
 
-**D:** *Tertawa*
+**D:** _Tertawa_
 
 **K:** Does that mean you already want to enter the technology industry from high school?
 
@@ -49,7 +49,7 @@ type = "transcript"
 
 **K:** Most of Kartini Technology's guests are usually interested in technology after they got introduced to the internet. And Dita herself was talking about things from everyday life, right, this point of sale system at the checkout, who made it. I didn't think of that as a kid. So, it's really cool that you already noticed things like that. Cool!
 
-**D:** Hmm yes. Thanks. *Laugh*. Yeah, the thing is when I was in middle school we had Pascal's lesson. Then I wondered who made this. Why do I have to work on this? Then, after I thought about it, I relized that oh, the cashier was made using Pascal or COBOL. Then, it turned out to be interesting too. Then, in high school there were friends who entered the Indonesian computer olympiad team, they had questions that were fun like puzzles. I thought the Olympics was really fun, doing tests with puzzle quizzes like that. Well, from there I found out that his world turns out to be very dependent on software and very dependent on computers.
+**D:** Hmm yes. Thanks. _Laugh_. Yeah, the thing is when I was in middle school we had Pascal's lesson. Then I wondered who made this. Why do I have to work on this? Then, after I thought about it, I relized that oh, the cashier was made using Pascal or COBOL. Then, it turned out to be interesting too. Then, in high school there were friends who entered the Indonesian computer olympiad team, they had questions that were fun like puzzles. I thought the Olympics was really fun, doing tests with puzzle quizzes like that. Well, from there I found out that his world turns out to be very dependent on software and very dependent on computers.
 
 **K:** Where is your middle school that taught you Pascal?
 
@@ -71,7 +71,7 @@ type = "transcript"
 
 **K:** Oh wow, thst's so fun! Anyway, you went through bachelor, master and now doctorate studies. So does it mean you enjoy academia?
 
-**D:** Hmm, not really. I had a break right between S1 and S2. I started to love the world of research and school in general is just when I got to graduate school. When I graduated from S1, the story was not inspiring at all. After that I tried to work, but I saw that I was getting more curious. At first it was only a cash register, then I was curious about  more complicated systems. Oh, how come you can, when I worked at Traveloka, how come millions of people can access at one time, then what kind of connection do you need, what is the team working on it like, what kind of knowledge is needed, I was very curious.
+**D:** Hmm, not really. I had a break right between S1 and S2. I started to love the world of research and school in general is just when I got to graduate school. When I graduated from S1, the story was not inspiring at all. After that I tried to work, but I saw that I was getting more curious. At first it was only a cash register, then I was curious about more complicated systems. Oh, how come you can, when I worked at Traveloka, how come millions of people can access at one time, then what kind of connection do you need, what is the team working on it like, what kind of knowledge is needed, I was very curious.
 
 **G:** Because working is a new opportunity for us to do projects or work on tasks that have very different scale than what we usually do in college. In undergraduate studies you might only work on toy problems. When you are at work, for example at Traveloka, the scale is definitely very different and it opens up a lot of new opportunities.
 
@@ -87,9 +87,9 @@ type = "transcript"
 
 **K:** That's cool! But you had scholarship too, right?
 
-**D:** Hmm, yeah. But no Indonesians knew about the scholarship. *laughs*
+**D:** Hmm, yeah. But no Indonesians knew about the scholarship. _laughs_
 
-**K:** *laughs*. But it's true it seems very rare for Indonesians to know Estonia.
+**K:** _laughs_. But it's true it seems very rare for Indonesians to know Estonia.
 
 **D:** The story about how I know Estonia is even funnier. So when I worked at a Japanese company, there was a client, he moved to Estonia. Then, we are still friends on Facebook, so he updates that's he's now in a Venture Capital in Estonia. Oh, Estonians are like this, technological innovations are like that. Because of that, I got a first-hand experience from people who have experienced it themselves, who once lived in Estonia and know the situation of how they are very advanced in the field of technology. Then, I browse around and I found this scholarship.
 
@@ -101,13 +101,13 @@ type = "transcript"
 
 **G:** We discussed Estonia too, because her start up is already registered in Estonia. We were also amazed when we hear about Estonia, there's this, that, like, wow!
 
-**D:** So I know this Estonia because of the Japanese who became Venture Capital in Estonia, right. He is still active until now. And we got a chance to meet actually and it was quite funny. So, he gave me a startup event pass just like that.He said "Oh, sorry. I can't come. Why don't you come?" so I came, right. Then I was treated like a VIP. There was my friend who happened to be on the committee there saying, "wait, how come you could enter with this investor badge?" *laughs*
+**D:** So I know this Estonia because of the Japanese who became Venture Capital in Estonia, right. He is still active until now. And we got a chance to meet actually and it was quite funny. So, he gave me a startup event pass just like that.He said "Oh, sorry. I can't come. Why don't you come?" so I came, right. Then I was treated like a VIP. There was my friend who happened to be on the committee there saying, "wait, how come you could enter with this investor badge?" _laughs_
 
-**K:** *laughs*
+**K:** _laughs_
 
 **D:** Yes, so he told me that in Estonia there is already digital signing, and then all online learning is already working. So, in the midst of this pandemic many articles wrote: "wow, this seems to be the only country that is ready to be locked down."
 
-**K:** *laughs*. Yeah, I also hear that the bureaucracy there is already digital-based, right?
+**K:** _laughs_. Yeah, I also hear that the bureaucracy there is already digital-based, right?
 
 **D:** Yes.
 
@@ -117,7 +117,7 @@ type = "transcript"
 
 **K:** Yes, and in Estonia, you worked on the data field as well. Based on previous experiences, what have you learned?
 
-**D:** Hmm, valuable experience, yeah, after all this journey... I think I'm already old enough to give advice. Many students who study IT, who are still pursuing their undergraduate dgeree, most of the complaints that I hear is "why there's a mismatch between the industry and what is taught in school?" Well not really. What is learned on campus is actually the fundamental things that are long-term in nature. So, you want to work or school later or even ten years later, it's all still the same fundamentals. And I proved myself from university in Indonesia until I moved to Germany, with different fields. The fundamentals are still the same, algorithm, then, database management is the same, what else? Network Engineering? Yes, those are the most important things. Whether you're working on a laptop in an internet cafe or  a supercomputer system. It's just that the level of complexity and the level of abstraction will be different. So don't just look at the surface but start to see the fundamentals.
+**D:** Hmm, valuable experience, yeah, after all this journey... I think I'm already old enough to give advice. Many students who study IT, who are still pursuing their undergraduate dgeree, most of the complaints that I hear is "why there's a mismatch between the industry and what is taught in school?" Well not really. What is learned on campus is actually the fundamental things that are long-term in nature. So, you want to work or school later or even ten years later, it's all still the same fundamentals. And I proved myself from university in Indonesia until I moved to Germany, with different fields. The fundamentals are still the same, algorithm, then, database management is the same, what else? Network Engineering? Yes, those are the most important things. Whether you're working on a laptop in an internet cafe or a supercomputer system. It's just that the level of complexity and the level of abstraction will be different. So don't just look at the surface but start to see the fundamentals.
 
 **K:** I'm curious now. Would you say that people need to have formal education to get into the technology industry?
 
@@ -183,11 +183,11 @@ type = "transcript"
 
 **K:** From what I hear, the price of a supercomputer is really expensive right?
 
-**D:** Yeah, the fastest one is 350 million USD. 
+**D:** Yeah, the fastest one is 350 million USD.
 
-**K:** 350 million USD. Wow! 
+**K:** 350 million USD. Wow!
 
-**G:** *Tertawa*. Wow! 
+**G:** _Tertawa_. Wow!
 
 **K:** What's your current focus for your research?
 
@@ -223,7 +223,7 @@ type = "transcript"
 
 **G:** But, I don't know the details, I mean, many people say that Python is more high level than other programming languages, right? Is that a problem, in the HPC field itself?
 
-**D:** Oh, yes it's a problem. *Laugh*. Yeah, so what I said earlier, most of these users aren't programmers. At all. They are physicists and chemists who study programming. To make it easier, they use Python, then, so, can calculate the formation of molecules accurately. Then after that, how about the performance? You know, it's dark. *Laugh*. So, most of the projects that come into my place, what is the optimization strategy of this old program from other people. So that it can run on the latest system, or it can be moved easily to another system. The problem is, most of them also have programs that are involved in one of the university clusters, then other universities want to use it, they can't.
+**D:** Oh, yes it's a problem. _Laugh_. Yeah, so what I said earlier, most of these users aren't programmers. At all. They are physicists and chemists who study programming. To make it easier, they use Python, then, so, can calculate the formation of molecules accurately. Then after that, how about the performance? You know, it's dark. _Laugh_. So, most of the projects that come into my place, what is the optimization strategy of this old program from other people. So that it can run on the latest system, or it can be moved easily to another system. The problem is, most of them also have programs that are involved in one of the university clusters, then other universities want to use it, they can't.
 
 **G:** Hmm, yeah. Especially each programming language has its own pros and cons.
 
@@ -257,21 +257,21 @@ type = "transcript"
 
 **D:** The history is actually the other way around, software used to be women's work.
 
-**G:**  Yeah that's what I've been thinking about too.
+**G:** Yeah that's what I've been thinking about too.
 
 **D:** Yes, the creator of the COBOL language is Admiral Grace Hopper. That's why there used to be a lot of great female programmers. How come there aren't many? Yes, you (boys) take the job.
 
-**K:** *Laughs*
+**K:** _Laughs_
 
 **D:** So back then, boys usually worked on hardware.
 
-**K:** I see! 
+**K:** I see!
 
 **D:** Girls only did the "softer" work, like typing, secretary's work.
 
 **G:** Yes, from what I read, people used to consider software as administrative work. The cool thing was hardware, where the guys are. Until, there came a time where people realize that software is the next big thing. Well, then the guys took jobs that were actually pioneered by many girls.
 
-**D:** True. *laughs*
+**D:** True. _laughs_
 
 **K:** Ah, I see. I remember, when I saw the film, I forgot the title, about NASA having scientists computing something for the Apollo project.
 
@@ -293,11 +293,11 @@ type = "transcript"
 
 **D:** So at one of the conferences that I had come to, the keynote speaker was the scientist who made the Mars project.
 
-**K:** Wow! 
+**K:** Wow!
 
 **D:** So, if for example you see the Hidden Figures movie where people count everything, it still exists today. But now they're helped by supercomputers.
 
-**K:** Ah, I see. 
+**K:** Ah, I see.
 
 **D:** So, instead of counting on paper, they type the program so they can determine that "oh, this launching should be like this, the surface of Mars is like this".
 
@@ -313,16 +313,16 @@ type = "transcript"
 
 **D:** She is one of the pioneers. So, the one who made the VMware company the first time was a girl, her name is Diane Greene. She is now on the board of Alphabet. And she was in charge of Google Cloud. Yes, she is still active. In my opinion she changed modern cloud computing, modern cloud computing is like this thanks to her work. And she is still alive.
 
-**G:** Yes, she's still active in many places as well, in Stripe, in Wix too. Wow! 
+**G:** Yes, she's still active in many places as well, in Stripe, in Wix too. Wow!
 
-**K:** Well, these people are rarely exposed. I guess we have too few women role models? I means if I look at it, we always go back to people like Sheryl Sandberg, someone who is already known to a lot of people. Even though there are many women whose contributions are also not less great in the field of technology. OK. Finally. Are there suggestions for  Kartini Teknologi listeners who want to start a career in technology?
+**K:** Well, these people are rarely exposed. I guess we have too few women role models? I means if I look at it, we always go back to people like Sheryl Sandberg, someone who is already known to a lot of people. Even though there are many women whose contributions are also not less great in the field of technology. OK. Finally. Are there suggestions for Kartini Teknologi listeners who want to start a career in technology?
 
 **D:** Hmm, just do it. Do not hesitate. Like, for example, I was someone who didn't have much motivation, and I get to be where I am now because I try to keep going. Keep moving forward and keep learning to not care about "ah, this is girl's work, this is boys' work. If you like what you do, just do it. And try to be the best in that field.
 
 **K:** Yeah. It seems that every Kartini Teknologi guest who is asked the question has the same answer: just do it!
 
-**D:** True, just do it! 
+**D:** True, just do it!
 
 **K:** But it's true too. It seems like girls may overthink it, maybe. So, just do it, girls! Okay, thank you, Dita for sharing a lot with us. This is really exciting. I'm sure my friends also learned a lot from this session. So yeah. Thank you so much for coming.
 
-**D:** Okay, thank you! 
+**D:** Okay, thank you!

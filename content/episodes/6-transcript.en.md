@@ -189,7 +189,7 @@ type = "transcript"
 
 **Z:** Well yeah, I'm pissed off, but what else can we do.
 
-**K:** It's like what Cinta says, *"basi! Madingnya udah terbit."*
+**K:** It's like what Cinta says, _"basi! Madingnya udah terbit."_
 
 **G:** Have they approved the law or is it still a bill?
 
@@ -217,6 +217,6 @@ type = "transcript"
 
 **K:** Hopefully it all works out for you. Last but not least, any messages for our listeners? Either about social sciencess, learning to code, or general messages.
 
-**Z:** *In general... do the things that you like. If it's hard, it will be the fun kind of hard*. And most importantly, my life motto is, fake it til you make it. Despite the fact that we're not that good at something, just ask. And keep hustling, it's no problem.
+**Z:** _In general... do the things that you like. If it's hard, it will be the fun kind of hard_. And most importantly, my life motto is, fake it til you make it. Despite the fact that we're not that good at something, just ask. And keep hustling, it's no problem.
 
 **K:** That's so cool. I honestly am very inspired hearing Zahra's story. She comes from a different background, even with zero knowledge on coding, and her classes only taught her the basics, but she managed to apply all these for her research, I think that's very cool. All right, so I hope this episode inspires you, and that's all from us. See you on the next episode!

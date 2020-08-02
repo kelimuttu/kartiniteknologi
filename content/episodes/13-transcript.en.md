@@ -33,13 +33,13 @@ type = "transcript"
 
 **Galuh (G):** I'm really curious, if for example people with bachelor's degree in computer science, want to pursue graduate study in bioinformatics, what courses are the most relevant or the most relevant for master's degree in bioinformatics or for focusing on bioinformatics?
 
-**A:** In my opinion, it's related to algorithm and development, like data structure, algorithm analysis ... maybe the name is different ... but back then that's the name  I think.
+**A:** In my opinion, it's related to algorithm and development, like data structure, algorithm analysis ... maybe the name is different ... but back then that's the name I think.
 
 **G:** In my university it's called Design and Analysis of the Algorithm.
 
 **A:** There's a MIT course too called Introduction to Algorithms. In MIT's open course. It's very useful.
 
-**G:**  Which data structures or algorithms are most often discussed when discussing bioinformatics?
+**G:** Which data structures or algorithms are most often discussed when discussing bioinformatics?
 
 **A:** For me, it's usually parallel programming, dynamic programming ... search algorithm, with big data, how can we process it quickly.
 
@@ -57,7 +57,7 @@ type = "transcript"
 
 **K:** That is the entry if the data about DNA must be sensitive, right? Where did you get the data from?
 
-**A:** In my company, from a company that is [inaudible]. But not really, not too sensitive, so there are also many on the Internet that are open source. So there is a lot of, genome data that is already there. Like [GenBank] (https://www.ncbi.nlm.nih.gov/genbank/), [National Center for Biotechnology Information (NCBI)] (https://www.ncbi.nlm.nih.gov/).
+**A:** In my company, from a company that is [inaudible]. But not really, not too sensitive, so there are also many on the Internet that are open source. So there is a lot of, genome data that is already there. Like [GenBank](https://www.ncbi.nlm.nih.gov/genbank/), [National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov/).
 
 **K:** Does it mean that the data is not tied to a particular identity?
 
@@ -81,7 +81,7 @@ type = "transcript"
 
 **K:** I see. Does this include making the process of making GMOs or not?
 
-**A:** It can be used for GMOs, but for GMOs  wemust modify the DNA directly outside. But if it's mating it's not GMO.
+**A:** It can be used for GMOs, but for GMOs wemust modify the DNA directly outside. But if it's mating it's not GMO.
 
 **K:** Ooh, I see. So you can say that this is more natural.
 
@@ -187,7 +187,7 @@ type = "transcript"
 
 **K:** What kind of policy?
 
-**A:** For example the government must set that, okay, we must be self-sufficient when it comes to food. Then universities should make majors or curriculums where students learn about agriculture. For example computer science students also have  to study agriculture or something like that, or biology, bioinformatics. We also need a push from the government. We are too comfortable in Indonesia.
+**A:** For example the government must set that, okay, we must be self-sufficient when it comes to food. Then universities should make majors or curriculums where students learn about agriculture. For example computer science students also have to study agriculture or something like that, or biology, bioinformatics. We also need a push from the government. We are too comfortable in Indonesia.
 
 **K:** In terms of agriculture, in your opinion actually if ... if we look at agriculture now, is bioinformatics applicable? I think it would be really difficult, because people would be [inaudible] using the traditional method, right?
 
@@ -203,13 +203,13 @@ type = "transcript"
 
 **K:** I'm also the type of person who likes MBTI, like that, psychology stereotypes. Then, I saw you [tweeting about MBTI as a programming language](https://twitter.com/perrenellle/status/1229886610352852995/photo/1), right? I was curious about how you could produce such an analysis.
 
-**A:** That's because I often watch memes like, MBTI as country, MBTI as celebrity, then I keep guessing and I think I'm good at typing people. Then when coding for example, when  using functional programming, I think that's really INTP, it's complicated. Then for example if you use Java. My manager... I like typing, right, and he looks like an ISTJ. Then he said, "Anyway, whatever happens we have use Java. Because Java works for everything."
+**A:** That's because I often watch memes like, MBTI as country, MBTI as celebrity, then I keep guessing and I think I'm good at typing people. Then when coding for example, when using functional programming, I think that's really INTP, it's complicated. Then for example if you use Java. My manager... I like typing, right, and he looks like an ISTJ. Then he said, "Anyway, whatever happens we have use Java. Because Java works for everything."
 
 **K:** Rigid.
 
 **A:** Yes, the person is rigid. Meanwhile INFJ, it's JavaScript, it's abstract but they are all about the community, they are very concerned about the community, so oh that's really JavaScript.
 
-**G:**  What about your type?
+**G:** What about your type?
 
 **A:** I'm INTP. I like Scala. But functional programming in my opinion is very interesting. But I haven't learned Haskell yet, quantum computing... those are things I find interesting but I don't have time yet.
 
@@ -235,7 +235,7 @@ type = "transcript"
 
 **A:** Anyway, according to me, NF people are advocates, influencers are like that. Anyway, programming languages ​​that concern the community.
 
-**K:** The community is strong, right? 
+**K:** The community is strong, right?
 
 **A:** Then the Explorer, I have never seen an SFP people, like party animals, I have never seen an SFP person coding, so in my opinion... GUI game for learning programming.
 
