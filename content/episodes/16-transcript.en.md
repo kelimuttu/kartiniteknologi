@@ -7,7 +7,7 @@ slug = "16/transcript"
 type = "transcript"
 +++
 
-**Kiki (K):** Hello everyone, we are back again in Kartini Teknologi with Kiki and Galuh. We haven't recorded for a long time, huh? The last time we recorded  was like before fasting. So it's been a long time. We're very sorry. The reason is there really nothing specific. Perhaps because we have to adapt again because of the pandemic and everything else. Because even though I'm used to working remotely, this pandemic has changed everything. I had to learn a new rhythm again, that's why we only got the chance to record a new episode now. And today we have a guest, her name is Aulia Rahmani. Maybe we should call you Auli, yeah?
+**Kiki (K):** Hello everyone, we are back again in Kartini Teknologi with Kiki and Galuh. We haven't recorded for a long time, huh? The last time we recorded was like before fasting. So it's been a long time. We're very sorry. The reason is there really nothing specific. Perhaps because we have to adapt again because of the pandemic and everything else. Because even though I'm used to working remotely, this pandemic has changed everything. I had to learn a new rhythm again, that's why we only got the chance to record a new episode now. And today we have a guest, her name is Aulia Rahmani. Maybe we should call you Auli, yeah?
 
 **Auli (A):** Yes, you can call me Aul or Auli.
 
@@ -57,7 +57,7 @@ type = "transcript"
 
 **K:** Okay, let's discuss your current role. You're now working at Alterra as lead UI/UX Designer. Can you share a bit about Alterra?
 
-**A:** Okay, so Alterra is actually a payment aggregator. Back then, before I joined, the name was sepulsa.com. So they were only selling phone credits, digital products. But, along the way, the business focus turned out to me all the things behind those digital products—the things that people don't see. So they were focusing on B2B. They provided PPOB (Payment Point Online Bank), sold phone credits and digital products for several e-commerce. They  also provided billers, to build the billing ecosystem, as well as payment technologies for other products. If I explain further it will become too technical, so the focus is in billing payment.
+**A:** Okay, so Alterra is actually a payment aggregator. Back then, before I joined, the name was sepulsa.com. So they were only selling phone credits, digital products. But, along the way, the business focus turned out to me all the things behind those digital products—the things that people don't see. So they were focusing on B2B. They provided PPOB (Payment Point Online Bank), sold phone credits and digital products for several e-commerce. They also provided billers, to build the billing ecosystem, as well as payment technologies for other products. If I explain further it will become too technical, so the focus is in billing payment.
 
 **K:** I see, and the focus is in B2B right?
 
@@ -101,7 +101,7 @@ type = "transcript"
 
 **K:** But what is the role of a UX writer exactly—are they also involved in the creation of the design flow?
 
-**A:** Sometimes we as users aren't aware that what we read in an app/web is just as important as how it looks or works. The task of a UX writer is to craft copies in a product so that users feel they are guided, without them realizing it. But I think nowadays we  start to often hear about how important UX writing is in a product. Because if there's no copy, or if the writing isn't good, it's not usable.
+**A:** Sometimes we as users aren't aware that what we read in an app/web is just as important as how it looks or works. The task of a UX writer is to craft copies in a product so that users feel they are guided, without them realizing it. But I think nowadays we start to often hear about how important UX writing is in a product. Because if there's no copy, or if the writing isn't good, it's not usable.
 
 **K:** That's how it is from my own experience too. I'm now working on revamping Mozilla's onboarding, and we only have designers and copywriters. So actually we make the copies ourselves but we consult with the copywriters too. Actually we have no idea about it, we're just imagining is this the correct way to write a copy? So it's very important to have UX writers in the company. Do you have UX writers in Gojek?
 
@@ -215,4 +215,4 @@ K; What are the tools that you can use?
 
 **A:** Thank you so much!
 
-**K:** Before we end the episode, we want to say thanks to AudioLab who will be helping us edit this podcast. All this time Kartini Teknologi is like an MVP, usually I would edit it, Galuh will write the transcript. But we don't even have professional microphones. Now we want to try to get our friend's help to create a more proper audio, let's see how it looks like. So thank you to Asep from AudioLab. That's all, I guess. Thank you so much for listening, and see you on the next episode!
+**K:** Before we end the episode, we want to say thanks to Odiolab who will be helping us edit this podcast. All this time Kartini Teknologi is like an MVP, usually I would edit it, Galuh will write the transcript. But we don't even have professional microphones. Now we want to try to get our friend's help to create a more proper audio, let's see how it looks like. So thank you to Asep from Odiolab. That's all, I guess. Thank you so much for listening, and see you on the next episode!

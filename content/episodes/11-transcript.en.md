@@ -29,7 +29,7 @@ type = "transcript"
 
 **K:** I used to think that JYSK is the furniture retail stores in the malls.
 
-**G:** Me too. 
+**G:** Me too.
 
 **A:** Yeah, so I usually carry the name IDS Skincare, not JYSK, but when I was invited to its annual dinner in Singapore they told me to use the JYSK name instead. But yeah, people are more familiar with the retail one, so...
 
@@ -121,11 +121,11 @@ type = "transcript"
 
 **G:** I've never tried Angular. In the past, I tried React, but I only made one project. Now... not right now anyway, at least recently I was playing with Vue, and so I'm leaning towards Vue, but honestly I don't really dig into it because I don't use it at work right. So I can only use it outside of work. When I used to do web development a lot frameworks like React, Vue, Angular didn't exist yet, and today suddenly today we have React, Vue, Angular, there are a lot of them right now. Before, it was only vanilla JS, and now it's like, wow so many. I also have a hard time giving opinionated thoughts, I mostly can only say, oh Vue because well, it's the only one I'm using.
 
-**K:** Anyway. Talking about work, what tech stack do you use? 
+**K:** Anyway. Talking about work, what tech stack do you use?
 
 **A:** Actually for projects that are live now we are still using Laravel. But the front-end is slowly being moved to React, but there hasn't been a live project yet. So, now the front-end is still using Laravel, some have been moved to React, and for the backend, the API is using Laravel, AWS, and the database is using MySQL.
 
-**G:**  Were you involved in converting the code base to React?
+**G:** Were you involved in converting the code base to React?
 
 **A:** Yes.
 
@@ -141,7 +141,7 @@ M: Well, now I'm thinking of one question. For example, there is one person who 
 
 **A:** In my opinion, it is better if we learn from the fundamentals, and the fundamentals of all JavaScript frameworks are vanilla JavaScript, the codes will still have many elements that still use vanilla JavaScript, so it is better to master it first... be more familiar with vanilla JS first, then just choose one or more than one of the existing frameworks.
 
-M: Outside of work, are there any other projects that you're working on right now  like side projects?
+M: Outside of work, are there any other projects that you're working on right now like side projects?
 
 **A:** It's more like a project for myself. I do have a side job, but I'm only working on pretty light projects, like WordPress. Now I'm trying to learn Golang right, like I mentioned at the beginning, seems like fun if I can do backend too.
 
@@ -151,7 +151,7 @@ M: Outside of work, are there any other projects that you're working on right no
 
 **G:** I want to ask too, I rarely follow the news about front-end development anymore, but looking at it from the outside, the development of front-end technologies is fast, and we only have 24 hours a day right—to work, rest. From your own experience, does a front-end developer need to follow all the trends, or should they be smart at picking one or a few of them? Do you have any tips on keeping up with the development of front-end technologies that is really fast?
 
-**A:** For every new framework that emerges, I'm more about learning it  hands-on, like with a small project, and after that, I'd compare it to the ones I already know. In my opinion, it's better to have in-depth knowledge in one framework than trying everything, but all of them are pretty shallow. I prefer to try it with small projects first, then I will compare. Usually there are also people who like to do comparison like that, like from the side of speed and others, usually there are many articles that compare. For example there is now Svelte, they say Svelte is light, but I have never tried it either.
+**A:** For every new framework that emerges, I'm more about learning it hands-on, like with a small project, and after that, I'd compare it to the ones I already know. In my opinion, it's better to have in-depth knowledge in one framework than trying everything, but all of them are pretty shallow. I prefer to try it with small projects first, then I will compare. Usually there are also people who like to do comparison like that, like from the side of speed and others, usually there are many articles that compare. For example there is now Svelte, they say Svelte is light, but I have never tried it either.
 
 **G:** Yeah, and I'm like, "what is this again?"
 
@@ -159,7 +159,7 @@ M: Outside of work, are there any other projects that you're working on right no
 
 **K:** I'm curious, you said you are in the process of converting your codebase to React. Was it you who proposed the idea or were there other people who proposed it on your team, or was it from the team leader who was like, "let's convert to React!". What's the story?
 
-**A:** Actually, I proposed it. If you want to ask why, it's also because I'm already uncomfortable having to do it with Laravel. Whereas in the office, the goal really is to separate it, the front-end and the backend. The projects are now separate. And I'm like ... the two of them are still using Laravel, what's the use of separating them like that but the front-end can't be optimized. So I proposed to use React. Incidentally, at that time I was learning React, so I just proposed it. By the end of the day I'm the one converting it as well. There are only two front-end developers, and my partner doesn't really follow the trends. 
+**A:** Actually, I proposed it. If you want to ask why, it's also because I'm already uncomfortable having to do it with Laravel. Whereas in the office, the goal really is to separate it, the front-end and the backend. The projects are now separate. And I'm like ... the two of them are still using Laravel, what's the use of separating them like that but the front-end can't be optimized. So I proposed to use React. Incidentally, at that time I was learning React, so I just proposed it. By the end of the day I'm the one converting it as well. There are only two front-end developers, and my partner doesn't really follow the trends.
 
 **K:** Talking about the team, you said earlier that there are two of you in the front-end team, if you talk about the whole team, the development team that works together with you everyday, is there another woman besides you?
 
@@ -171,7 +171,7 @@ M: Outside of work, are there any other projects that you're working on right no
 
 **K:** How does it feel to be a minority at the office? Is there a difference?
 
-**A:** For now not really, the first time I worked I might really feel the difference, but the first time I worked there actually was another woman, but she wasn't really mingling with others, so we got really separated between the girls and the boys. Finally, we got closer when she wanted to resign. But for now, since it's my third company, I'm used to it. I did feel inferior at first  but now, it feels pretty natural just like when when you're getting to know someone for the first time.
+**A:** For now not really, the first time I worked I might really feel the difference, but the first time I worked there actually was another woman, but she wasn't really mingling with others, so we got really separated between the girls and the boys. Finally, we got closer when she wanted to resign. But for now, since it's my third company, I'm used to it. I did feel inferior at first but now, it feels pretty natural just like when when you're getting to know someone for the first time.
 
 **K:** Do you think diversity is important?
 
@@ -183,7 +183,7 @@ M: Outside of work, are there any other projects that you're working on right no
 
 **K:** So Adrin's material was about accessibility in talk. Why do you choose the material? So actually when we were looking for mentors, we actually have prepared a number of topics that we offered to the mentors and they could choose their own. Well Adrin picked accessibility. Now I'm just curious, is it something important for you, why do you think it's something important for people to learn about?
 
-**A:** So why did I choose accessibility... it comes from my experience in the office,  because I have two friends who have disabilities, both are deaf, one of them uses a device that can help them hear. My other friend even when they use the device, they can only hear small vibrations. And the latter is my partner is at the front-end development team, and I saw that it's difficult for him to keep up. Looking for articles to learn is also difficult, right, because mostly they are in English. Then if he comes to meetups, he also can't do it because he can't hear too. Because of that, I thought, why not talk about this so that people are also aware that there are also our friends with disabilities working in this field.
+**A:** So why did I choose accessibility... it comes from my experience in the office, because I have two friends who have disabilities, both are deaf, one of them uses a device that can help them hear. My other friend even when they use the device, they can only hear small vibrations. And the latter is my partner is at the front-end development team, and I saw that it's difficult for him to keep up. Looking for articles to learn is also difficult, right, because mostly they are in English. Then if he comes to meetups, he also can't do it because he can't hear too. Because of that, I thought, why not talk about this so that people are also aware that there are also our friends with disabilities working in this field.
 
 **K:** Yeah, yeah.
 
@@ -195,23 +195,23 @@ M: Outside of work, are there any other projects that you're working on right no
 
 **K:** Okay. Can you tell our listeners about what we should pay attention to if we want to make an accessible website?
 
-**A:** Okay, from me, the most important thing is to pay attention to semantic HTML, like making a button, for example. Do not use the div to make it, the problem is when we try to use a screen reader, it reads it as a div, not a button, they don't tell you if it's a button. People who are  using a screen reader should be told that this is a button, what is this. If the button is a div, people won't know that it's clickable. It's more about paying attention to the semantic HTML to begin with. Actually though web accessibility is also so much more, like paying attention to contrast, page contrast, and actually browsers already give us the convenience to be able to audit the web that we have made. In Chrome, in Mozilla their tool seems to have handled contrast. So just inspect it, direct the cursor to the element you want to inspect and it will tell you whether this contrast is already accessible or not. If there is already an existing project, it's better to just audit it first, after that you already know what the problem is, and from there it can be fixed little by little. But for the whole web accessibility, there really is a lot, not just about the semantics of HTML and contrast, it's also about giving captions for images, then using alt text, using ARIA, and so on.
+**A:** Okay, from me, the most important thing is to pay attention to semantic HTML, like making a button, for example. Do not use the div to make it, the problem is when we try to use a screen reader, it reads it as a div, not a button, they don't tell you if it's a button. People who are using a screen reader should be told that this is a button, what is this. If the button is a div, people won't know that it's clickable. It's more about paying attention to the semantic HTML to begin with. Actually though web accessibility is also so much more, like paying attention to contrast, page contrast, and actually browsers already give us the convenience to be able to audit the web that we have made. In Chrome, in Mozilla their tool seems to have handled contrast. So just inspect it, direct the cursor to the element you want to inspect and it will tell you whether this contrast is already accessible or not. If there is already an existing project, it's better to just audit it first, after that you already know what the problem is, and from there it can be fixed little by little. But for the whole web accessibility, there really is a lot, not just about the semantics of HTML and contrast, it's also about giving captions for images, then using alt text, using ARIA, and so on.
 
 **K:** Yes, yes. Let's shift to your community activities. You're also active in the Perempuan WP community, yes, if I'm not mistaken. Tell me what are the activities there?
 
-**A:** Actually, if it is fairly new right now, it hasn't been a year, so now the routine activity is *kuliah telegram* (lectures/sharing sessions in Telegram). Meetups are arranged as one WordPress meetup. So the Perempuan WP's activities are more about *kuliah telegram*. The presenters of these *kuliah telegram* sessions are also women, but for the audience themselves, it's open to anyone, so male can also participate in the *kulgram*. It's just that we prioritize women to become presenters. That's for the current activities.
+**A:** Actually, if it is fairly new right now, it hasn't been a year, so now the routine activity is _kuliah telegram_ (lectures/sharing sessions in Telegram). Meetups are arranged as one WordPress meetup. So the Perempuan WP's activities are more about _kuliah telegram_. The presenters of these _kuliah telegram_ sessions are also women, but for the audience themselves, it's open to anyone, so male can also participate in the _kulgram_. It's just that we prioritize women to become presenters. That's for the current activities.
 
-**K:** Okay. Do you have a specific schedule for the *kulgram*?
+**K:** Okay. Do you have a specific schedule for the _kulgram_?
 
 **A:** Once every two weeks, if I remember correctly.
 
 **K:** If my friends want to join the kulgram, how can they do so?
 
-**A:** Join Telegram. Maybe you can check the Twitter account of  @PerempuanWP, we have all the links there, from Slack to Telegram links.
+**A:** Join Telegram. Maybe you can check the Twitter account of @PerempuanWP, we have all the links there, from Slack to Telegram links.
 
 **K:** Okay. And then Adrin often speakts at meetups, right? How do you start being a speaker at a meetup?
 
-**A:** Actually, at first I wasn't really aware that there was such a community. I'm aware there are communities but I thought the ones in community are people who are already super good at it. The first time I was convinced by Bli Prabu Rangki in DevFest 2018 to speak at a panel session. It turned out to be fun, like I knew a lot of new people, then I got a lot of insights from companies A, B, C until Z. Then finally I braved myself to submit a proposal at the 2019 WordCamp Jakarta. And thank God, it was [accepted.](http://accepted.So) So that's how I started, from WordCamp. And then people started to invite me, and if I feel that there's a good material that I can speak about in meetups, I would propose that. 
+**A:** Actually, at first I wasn't really aware that there was such a community. I'm aware there are communities but I thought the ones in community are people who are already super good at it. The first time I was convinced by Bli Prabu Rangki in DevFest 2018 to speak at a panel session. It turned out to be fun, like I knew a lot of new people, then I got a lot of insights from companies A, B, C until Z. Then finally I braved myself to submit a proposal at the 2019 WordCamp Jakarta. And thank God, it was [accepted.](http://accepted.So) So that's how I started, from WordCamp. And then people started to invite me, and if I feel that there's a good material that I can speak about in meetups, I would propose that.
 
 **G:** So far what topics have you talked about?
 
@@ -221,7 +221,7 @@ M: Outside of work, are there any other projects that you're working on right no
 
 **A:** As for the material itself, I get more inspiration from reading articles, and sometimes when I search I realize, it seems like no one has talked about the topic here, and like the source, they're mostly in English. So once I get an idea, I combine the source, make the material, and propose to speak about it at a meetup like that. So I'm looking to speak about unpopular topics in Indonesia, like topics that no one has really discussed about. These unpopular materials can can also be immediately accepted if we propose.
 
-**G:** Hmm ... because there's rarely been a discussion about those right. I see. Well, can you share your process on writing a talk, for example, from looking for ideas until finally it becomes a talk that you speak about on the day of the event, what is the process? And how long does it usually take? 
+**G:** Hmm ... because there's rarely been a discussion about those right. I see. Well, can you share your process on writing a talk, for example, from looking for ideas until finally it becomes a talk that you speak about on the day of the event, what is the process? And how long does it usually take?
 
 **A:** OK. How long does it take ... because I'm rather a perfectionist so at least it takes me two weeks to get one talk ready. Initially, there were actually two choices, whether I got the topic from the organizer or l'm the one proposing the theme. If the theme is given from the organizer, that's good, all I have to do is browse materials about the theme. If it's me who proposes my own topic, I still browse articles, search for unpopular ones, and then... try to see, how come the ones that seem like the combination of A and B haven't been made yet. I continue to search, propose, and if accepted, I will continue to search for more sources. After that I usually write the transcript first, well after it becomes an article, it's ready, I'll make the presentation. Now, after making the presentation, I just need to practice, talk in front of the mirror. Until the D-Day. On D-Day I prepare a short link so that the presentation will be easy to access like, for example if I'm using another laptop. When preparing I prefer to write the transcript that I'm going to talk about. I'm still nervous on D-day, but I become less nervous because I already have my own transcript, and I've practiced using my own transcript.
 

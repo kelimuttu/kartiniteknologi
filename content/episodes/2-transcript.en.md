@@ -33,7 +33,7 @@ A: But I'm not that good at it.
 
 **G:** Or maybe you can begin with what NLP is actually?
 
-**N:** Okay, so NLP is short for *natural language processing*. In Indonesian it's called *"pemrosesan bahasa alami"*. NLP is a field that connects natural language, which is a language spoken by humans like Indonesian, English... connected to computers. So we can program and train computers to capture information spoken in natural language or written in natural language. The result can give added value for humans, such as Google Translate or Siri... those are all applications of NLP.
+**N:** Okay, so NLP is short for _natural language processing_. In Indonesian it's called _"pemrosesan bahasa alami"_. NLP is a field that connects natural language, which is a language spoken by humans like Indonesian, English... connected to computers. So we can program and train computers to capture information spoken in natural language or written in natural language. The result can give added value for humans, such as Google Translate or Siri... those are all applications of NLP.
 
 **K:** That's interesting. So how did you get interested in the field? Can you tell us a bit more about that?
 
@@ -49,7 +49,7 @@ A: But I'm not that good at it.
 
 **G:** From the experiments there was a wide range of configurations that you tried as well. Which methodology was the best for the case that you worked on?
 
-**N:** I don't remember the specifics, I think it involved two steps... combining CNN and LSTM. And it seems that when I removed the stopwords the result was worse. I don't really remember the specifics because there were a lot parameters. After the project, I also had another project with Prosa.ai. I created a text normalizer for slang Indonesian to formal Indonesian. It was to be used to process the next analytical steps because to talk about the same thing, such as the word *"nggak"* ("no" in Indonesian), we can write "ngga", "g", and so on... so we have to normalize it. Initially I used rule-based but then I switched to sequence to sequence deep learning. However it required a lot of data.
+**N:** I don't remember the specifics, I think it involved two steps... combining CNN and LSTM. And it seems that when I removed the stopwords the result was worse. I don't really remember the specifics because there were a lot parameters. After the project, I also had another project with Prosa.ai. I created a text normalizer for slang Indonesian to formal Indonesian. It was to be used to process the next analytical steps because to talk about the same thing, such as the word _"nggak"_ ("no" in Indonesian), we can write "ngga", "g", and so on... so we have to normalize it. Initially I used rule-based but then I switched to sequence to sequence deep learning. However it required a lot of data.
 
 **G:** Where did you get the data from? Because to accomplish that you would need something other than formal texts right?
 
@@ -233,7 +233,7 @@ A: But I'm not that good at it.
 
 **K:** Oh really? What's the meaning of Nilta?
 
-**N:** Nilta means "Nilai Tambah" (*"added value"* in Indonesian). So the hope is to become an added value haha.
+**N:** Nilta means "Nilai Tambah" (_"added value"_ in Indonesian). So the hope is to become an added value haha.
 
 **K:** I see, I didn't know that before, I thought it's from another language or something. So that's our conversation with Nilta. Thank you so much for the knowledge that you've shared with us. Hopefully you can come back to Kartini Teknologi in the future. If in the future you have new projects that you're working on maybe share them with us and we can discuss about them later. Thank you so much Nilta.
 

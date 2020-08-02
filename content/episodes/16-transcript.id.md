@@ -13,11 +13,11 @@ type = "transcript"
 
 **K:** Aul atau Auli, ya. Oke. Kak Auli apa kabar nih?
 
-**A:** Alhamdulillah baik.. Walaupun bosen ya. 
+**A:** Alhamdulillah baik.. Walaupun bosen ya.
 
 **K:** Sekarang dimana nih?
 
-**A:** Sekarang lagi di Malang. 
+**A:** Sekarang lagi di Malang.
 
 **K:** Tapi biasanya emang di Malang, atau karena pandemi aja di Malang?
 
@@ -25,79 +25,79 @@ type = "transcript"
 
 **K:** Kayanya udah hampir 4-5 bulan ngga sih dari Februari gitu?
 
-**A:** [Tertawa] Udah makin lupa gitu, loh. Ini tuh, bulan, oh, udah Juli aja. 
+**A:** [Tertawa] Udah makin lupa gitu, loh. Ini tuh, bulan, oh, udah Juli aja.
 
 **K:** Kemaren aku pikir November itu udah 3 bulan lagi. Ternyata tapi masih 5 bulan lagi. Jadi emang pandemi ini bikin kita jadi lupa sense of time, gitu. Tapi sehat ya alhamdulillah semuanya?
 
-**A:** Alhamdulillah, makin di rumah tuh justru jarang sakit sih, alhamdulillah-nya ya. 
+**A:** Alhamdulillah, makin di rumah tuh justru jarang sakit sih, alhamdulillah-nya ya.
 
 **K:** Ohya?
 
 **A:** Iya, biasanya tuh kaya sebulan ada aja kan? Flu atau apa. Tapi sampe sekarang alhamdulillah belum pernah sakit. [Tertawa kecil]
 
-**K:** Iya, alhamdulillah lah ya. [Tertawa kecil]. Oke, kak Auli ini adalah seorang Lead UI/UX Designer di perusahaan yang namanya Altera, yang mungkin kita bisa tanyain lebih lanjut nanti, ya. Cuma, kita pengen mulai dari backgroundnya kak Auli dulu, nih. Kan, background kak Auli sebenernya komunikasi, ya dulu pas kuliah. Cuma kan dulu along the way, sempet jadi *front end* (*developer*) juga, bahkan dulu kalo ngga salah aku baca di LinkedInnya sempet internship di Metro TV segala macem. Terus pernah jadi content writer, social media planner, banyak banget gitu role yang pernah dicobain. Trus kalo sekarang kan fokusnya di UX gitu, kan? Trus, menurut kak Auli ini karena udah pernah nyoba berbagai role, apa sih yang trus bikin kak Auli memutuskan untuk fokus ke UX ini?
+**K:** Iya, alhamdulillah lah ya. [Tertawa kecil]. Oke, kak Auli ini adalah seorang Lead UI/UX Designer di perusahaan yang namanya Altera, yang mungkin kita bisa tanyain lebih lanjut nanti, ya. Cuma, kita pengen mulai dari backgroundnya kak Auli dulu, nih. Kan, background kak Auli sebenernya komunikasi, ya dulu pas kuliah. Cuma kan dulu along the way, sempet jadi _front end_ (_developer_) juga, bahkan dulu kalo ngga salah aku baca di LinkedInnya sempet internship di Metro TV segala macem. Terus pernah jadi content writer, social media planner, banyak banget gitu role yang pernah dicobain. Trus kalo sekarang kan fokusnya di UX gitu, kan? Trus, menurut kak Auli ini karena udah pernah nyoba berbagai role, apa sih yang trus bikin kak Auli memutuskan untuk fokus ke UX ini?
 
-**A:** Sebenernya aku tuh anaknya waktu masih muda, bukan berarti sekarang tua, ya? [Tertawa] Maksudnya waktu masih fresh grade gitu seneng ngambil kesempatan. Jadi kalo ada kesempatan gitu, ya udah coba aja. Walaupun di tengah-tengah ya struggling juga. Tapi dari situ tuh banyak ambil pelajaran. Mutusin buat fokus ke UX itu sebenernya pas jadi front-end. Jadi waktu jadi  *front-end* itu, setiap ngoding, itu tuh kaya merasa desainnya bisa di-*tweak*, atau bisa di-*improve*, gitu. Dan pada saat itu tuh, term UI/UX belum terkenal gitu loh. Jadi waktu itu masih nyari-nyari dan baca-baca. Trus oh, ternyata ada yang kaya gini. Harusnya kerjaan gue pas di front-end itu bisa kaya UX juga loh. Waktu itu mikirnya masih kaya gitu. Tapi kesempatan untuk jadi UX designer itu belum ada. Dulu tuh, masih sambil ngerjain sosmed, biasanya klien itu juga ngebikinin web-nya, atau kaya desainnya ke aku. Jadi kaya ngerjainnya ya kaya full-stack. Dari front-end sampai web design waktu itu. Sambil jalan, karena waktu itu lumayan apa ya, namanya juga masih anak fresh grad, gampang bosen, pengen nyoba yang baru. Trus waktu itu pas apply ke beberapa perusahaan ada yang diterima jadi UX waktu itu. Diterima di situ, trus yaudah mulai dari situ sih belajar UXnya. Meskipun sebelumnya belajar web design tapi kan belum dalem waktu itu. Zaman dulu ya cuma desain-desain aja, gitu. Ilmu psikologi, atau research gitu tuh belum diterapin 100% kaya gitu. 
+**A:** Sebenernya aku tuh anaknya waktu masih muda, bukan berarti sekarang tua, ya? [Tertawa] Maksudnya waktu masih fresh grade gitu seneng ngambil kesempatan. Jadi kalo ada kesempatan gitu, ya udah coba aja. Walaupun di tengah-tengah ya struggling juga. Tapi dari situ tuh banyak ambil pelajaran. Mutusin buat fokus ke UX itu sebenernya pas jadi front-end. Jadi waktu jadi _front-end_ itu, setiap ngoding, itu tuh kaya merasa desainnya bisa di-_tweak_, atau bisa di-_improve_, gitu. Dan pada saat itu tuh, term UI/UX belum terkenal gitu loh. Jadi waktu itu masih nyari-nyari dan baca-baca. Trus oh, ternyata ada yang kaya gini. Harusnya kerjaan gue pas di front-end itu bisa kaya UX juga loh. Waktu itu mikirnya masih kaya gitu. Tapi kesempatan untuk jadi UX designer itu belum ada. Dulu tuh, masih sambil ngerjain sosmed, biasanya klien itu juga ngebikinin web-nya, atau kaya desainnya ke aku. Jadi kaya ngerjainnya ya kaya full-stack. Dari front-end sampai web design waktu itu. Sambil jalan, karena waktu itu lumayan apa ya, namanya juga masih anak fresh grad, gampang bosen, pengen nyoba yang baru. Trus waktu itu pas apply ke beberapa perusahaan ada yang diterima jadi UX waktu itu. Diterima di situ, trus yaudah mulai dari situ sih belajar UXnya. Meskipun sebelumnya belajar web design tapi kan belum dalem waktu itu. Zaman dulu ya cuma desain-desain aja, gitu. Ilmu psikologi, atau research gitu tuh belum diterapin 100% kaya gitu.
 
-**K:** I see.. Berarti emang dari pengalaman pribadi gitu ya pas jadi front-end. Hmm, trus kan tadi  bilang mulai tertarik ke UX dari situ. Trus inspirasi untuk terjun ke UI/UX tuh darimana sih? Maksudnya, kenapa akhirnya mendalami secara spesifik? Mungkin ada role model yang "oh, gue pengen jadi kaya si ini, nih." Atau gimana tuh?  
+**K:** I see.. Berarti emang dari pengalaman pribadi gitu ya pas jadi front-end. Hmm, trus kan tadi bilang mulai tertarik ke UX dari situ. Trus inspirasi untuk terjun ke UI/UX tuh darimana sih? Maksudnya, kenapa akhirnya mendalami secara spesifik? Mungkin ada role model yang "oh, gue pengen jadi kaya si ini, nih." Atau gimana tuh?
 
-**A:** Sebenernya ngga ada figur yang spesifik. Cuma, dulu tuh menemukan hook yang bener-bener bikin "gue pengen belajar ini, pengen fokus di sini" tuh ya karena UX mungkin suka ngobrol sama orang, suka cari solusi. Trus, gue juga suka menikmati produk yang bagus dan pengen bikin kaya gitu. Jadi ngga ada orang yang spesifik yang menginspirasi. Kalo orang sih, mungkin kalo mention Steve Jobs juga agak cheesy ya. Tapi, pada masa itu aku tuh sempet mengidolakan Steve Jobs gitu. Karena waktu itu setiap dia ngeluncurin iPhone gitu kan kita kaya amazed, kaya apapun dia bisa jual, gitu kan? Sama, waktu jadi front-end, salah satu orang, sebenenernya ngga berkaitan sama desain, tapi menurut gue produknya itu bagus dia itu. Hmm, itu co-foundernya Basecamp. 
+**A:** Sebenernya ngga ada figur yang spesifik. Cuma, dulu tuh menemukan hook yang bener-bener bikin "gue pengen belajar ini, pengen fokus di sini" tuh ya karena UX mungkin suka ngobrol sama orang, suka cari solusi. Trus, gue juga suka menikmati produk yang bagus dan pengen bikin kaya gitu. Jadi ngga ada orang yang spesifik yang menginspirasi. Kalo orang sih, mungkin kalo mention Steve Jobs juga agak cheesy ya. Tapi, pada masa itu aku tuh sempet mengidolakan Steve Jobs gitu. Karena waktu itu setiap dia ngeluncurin iPhone gitu kan kita kaya amazed, kaya apapun dia bisa jual, gitu kan? Sama, waktu jadi front-end, salah satu orang, sebenenernya ngga berkaitan sama desain, tapi menurut gue produknya itu bagus dia itu. Hmm, itu co-foundernya Basecamp.
 
 **K:** Jason Fried, ya?
 
-**A:** Nah, iya. Gara-gara baca bukunya dia waktu itu, Re-work. Dan, emang kita itu bikin pakai Basecamp. Trus, waktu itu ngerasanya produknya nih kok bagus, pengen deh bikin produk kaya gini yang menyelesaikan problem orang. Dan sekarang, Jason Fried ini lumayan produktif, ya? Ada buku baru, ada produk baru juga. Mungkin itu, sih. Tapi ngga ada sih, spesifik yang dari orang UX. 
+**A:** Nah, iya. Gara-gara baca bukunya dia waktu itu, Re-work. Dan, emang kita itu bikin pakai Basecamp. Trus, waktu itu ngerasanya produknya nih kok bagus, pengen deh bikin produk kaya gini yang menyelesaikan problem orang. Dan sekarang, Jason Fried ini lumayan produktif, ya? Ada buku baru, ada produk baru juga. Mungkin itu, sih. Tapi ngga ada sih, spesifik yang dari orang UX.
 
-**Galuh (G):** Kalo produk, selain Basecamp, ada ngga yang pas jaman dulu awal kita belum terlalu familiar sama term UX, tapi kak Auli "Gila, gue pengen banget nih bikin produk kaya gini". 
+**Galuh (G):** Kalo produk, selain Basecamp, ada ngga yang pas jaman dulu awal kita belum terlalu familiar sama term UX, tapi kak Auli "Gila, gue pengen banget nih bikin produk kaya gini".
 
-**A:** Kalo zaman duu tuh lebih tertarik sama management dan productivity tools, gitu. Jadi dulu tuh kaya Basecamp, trus produknya Atlassian, kaya gitu tuh suka banget. Dan, satu produk yang dari zaman dulu sampai sekarang suka tuh Airbnb. Itu doang, sih. Mungkin gara-gara baca bukunya Airbnb story, trus baca perjuangan mereka dari yang jualan sereal, trus beberapa kali pivot, seru aja, gitu. Kaya, emang produk itu biasanya ngga cuma dari produknya aja yang dinilai, tapi juga sosok di belakangnya gitu, yang bikin produknya. Itu yang biasanya lebih matters. Itu sih kayanya. 
+**A:** Kalo zaman duu tuh lebih tertarik sama management dan productivity tools, gitu. Jadi dulu tuh kaya Basecamp, trus produknya Atlassian, kaya gitu tuh suka banget. Dan, satu produk yang dari zaman dulu sampai sekarang suka tuh Airbnb. Itu doang, sih. Mungkin gara-gara baca bukunya Airbnb story, trus baca perjuangan mereka dari yang jualan sereal, trus beberapa kali pivot, seru aja, gitu. Kaya, emang produk itu biasanya ngga cuma dari produknya aja yang dinilai, tapi juga sosok di belakangnya gitu, yang bikin produknya. Itu yang biasanya lebih matters. Itu sih kayanya.
 
 **K:** Kalo produk Indonesia ada ngga, kak yang kak Auli suka sama UXnya selama ini?
 
-**A:** Aku sih suka Gojek, ya. Karena selalu improve gitu, loh. Sama, selalu keliatan dengerin user. Beberapa ya memang kenal in-person gitu, ya, di baliknya. Cuma, kalo yang aku liat mereka tuh selalu berusaha dengerin apa yang user butuhkan, user pengen, kalo aku liat, ya. 
+**A:** Aku sih suka Gojek, ya. Karena selalu improve gitu, loh. Sama, selalu keliatan dengerin user. Beberapa ya memang kenal in-person gitu, ya, di baliknya. Cuma, kalo yang aku liat mereka tuh selalu berusaha dengerin apa yang user butuhkan, user pengen, kalo aku liat, ya.
 
 **K:** Okay. Next, kita bahas tentang current role, ya. Sekarang kan, di Alterra sebagai lead UI/UX Designer. Boleh diceritain dikit, ngga, Alterra itu apa lini bisnisnya?
 
-**A:** Ok, jadi Altera ini sebenernya adalah payment aggregator. Zaman dulu banget, sebelum gue join juga, dianamanya sepulsa.com, kalo tau. Jadi dulu emang terbatas jualan, pulsa, ya produk-produk digital gitu lah. Tapi, along the way, fokus bisnisnya justru yang di balik itu semua, gitu. Yang ngga keliatan orang. Jadi, lebih fokus ke B2B. Dimana dia itu, menyediakan pembayaran PPOB (Payment Point Online Bank), trus jualan pulsa dan produk digital, buat beberapa e-commerce. Dan dia juga menyediakan billers, gitu jadi membangun ekosistem billing, sama teknologi pembayaran untuk beberapa produk yang lain. Kaya gitu, sih. Sebenernya, kalo dijelasin lebih dalem nanti agak terlalu teknikal, jadi fokusnya ke billing payment. Gitu. 
+**A:** Ok, jadi Altera ini sebenernya adalah payment aggregator. Zaman dulu banget, sebelum gue join juga, dianamanya sepulsa.com, kalo tau. Jadi dulu emang terbatas jualan, pulsa, ya produk-produk digital gitu lah. Tapi, along the way, fokus bisnisnya justru yang di balik itu semua, gitu. Yang ngga keliatan orang. Jadi, lebih fokus ke B2B. Dimana dia itu, menyediakan pembayaran PPOB (Payment Point Online Bank), trus jualan pulsa dan produk digital, buat beberapa e-commerce. Dan dia juga menyediakan billers, gitu jadi membangun ekosistem billing, sama teknologi pembayaran untuk beberapa produk yang lain. Kaya gitu, sih. Sebenernya, kalo dijelasin lebih dalem nanti agak terlalu teknikal, jadi fokusnya ke billing payment. Gitu.
 
 **K:** I see, dan B2B ya berarti fokusnya?
 
-**A:** Iya, lebih ke B2B, sih. 
+**A:** Iya, lebih ke B2B, sih.
 
 **K:** Trus kan peran kak Auli kan sebagai lead UI/UX Designer, ya. Ceritain dong tanggung jawabnya sebagai lead UI/UX itu apa aja?
 
-**A:** Jadi kalo di Altera itu kita ada beberapa lead UI/UX gitu. Ngga cuma aku doang. Ada 3. Dan masing-masing, pegang fokus di suatu lini produk, gitu. Kalau aku sendiri sih fokusnya lebih ke me-manage tim UX dan grooming team members-nya. Ada sih beberapa hal yang aku masih bantu crafting juga, selain manage. Karena sebenernya, yang aku pegang itu sekitar 12 produk. Sebenernya 1 fokusnya, cuma di dalemnya ada 12 cabang gitu, dan di tim aku itu kita cuma 4 orang. Makanya, kita juga lagi hiring. Kalo misalnya temen-temen yang denger ini bisa cek LinkedIn-nya Altera. Sekalian promosi ngga papa, ya. [Tertawa] Phase kita sekarang lumayan cepet, nih. Tapi team membernya ngga seimbang sama phase-nya. Jadi lagi hiring juga untuk spesifik UI/UX Designer. 
+**A:** Jadi kalo di Altera itu kita ada beberapa lead UI/UX gitu. Ngga cuma aku doang. Ada 3. Dan masing-masing, pegang fokus di suatu lini produk, gitu. Kalau aku sendiri sih fokusnya lebih ke me-manage tim UX dan grooming team members-nya. Ada sih beberapa hal yang aku masih bantu crafting juga, selain manage. Karena sebenernya, yang aku pegang itu sekitar 12 produk. Sebenernya 1 fokusnya, cuma di dalemnya ada 12 cabang gitu, dan di tim aku itu kita cuma 4 orang. Makanya, kita juga lagi hiring. Kalo misalnya temen-temen yang denger ini bisa cek LinkedIn-nya Altera. Sekalian promosi ngga papa, ya. [Tertawa] Phase kita sekarang lumayan cepet, nih. Tapi team membernya ngga seimbang sama phase-nya. Jadi lagi hiring juga untuk spesifik UI/UX Designer.
 
 **G:** Tadi kan kalo ngga salah ada 3 lead, ya? Trus masing-masing kalo aku ngga salah denger pegang produk yang beda-beda. Bener ngga?
 
-**A:** Iya. 
+**A:** Iya.
 
 **G:** Nah, itu koordinasi antara 3 lead itu gimana sih untuk make sure bahwa produknya berbeda-beda tapi harus ngikutin desain yang mirip, atau gimana sih cara menjaga konsistensinya?
 
-**A:** Sebenernya tiap produk itu punya user yang berbeda-beda juga, visi-misinya beda juga. Jadi kita kaya pegang beda perusahaan jadinya. Masing-masing produk, kita punya guidelines sendiri, sih. Dan guidelines itu sambil jalan, sambil di-improve juga, gitu. Jadi, selama ini sih, kita maintain-nya dari guidelines itu. Dan kita selalu koordinasi ada kaya weekly coordination gitu, untuk tau sebenernya team lead yang ini lagi ngerjain apa, mereka ada blocker dimana, ada yang bisa dibantu ngga, dan apa yang bisa dikasih feedback sama temen-temen yang lain. Kadang kan kita craft something tuh, banyak blind spot yang ngga kita capture tapi orang lain bisa liat. Dan team lead lain juga bisa show hasil kerja mereka dan minta feedback dan lead atau team member yang lain. Gitu sih. Kalo bisa lebih kaya over-communicate, aja sih. Apalagi selama masa pandemi gini, ya. 
+**A:** Sebenernya tiap produk itu punya user yang berbeda-beda juga, visi-misinya beda juga. Jadi kita kaya pegang beda perusahaan jadinya. Masing-masing produk, kita punya guidelines sendiri, sih. Dan guidelines itu sambil jalan, sambil di-improve juga, gitu. Jadi, selama ini sih, kita maintain-nya dari guidelines itu. Dan kita selalu koordinasi ada kaya weekly coordination gitu, untuk tau sebenernya team lead yang ini lagi ngerjain apa, mereka ada blocker dimana, ada yang bisa dibantu ngga, dan apa yang bisa dikasih feedback sama temen-temen yang lain. Kadang kan kita craft something tuh, banyak blind spot yang ngga kita capture tapi orang lain bisa liat. Dan team lead lain juga bisa show hasil kerja mereka dan minta feedback dan lead atau team member yang lain. Gitu sih. Kalo bisa lebih kaya over-communicate, aja sih. Apalagi selama masa pandemi gini, ya.
 
-**G:** Bener banget. 
+**G:** Bener banget.
 
-**A:** Jadi ya harus transparan, trus tetep pada core-nya itu apa. Kita mau customer focus, kita mau tetep menyediakan yang terbaik buat team business kita. Jadi lebih fokus sama core dan over-communicate yang pasti. 
+**A:** Jadi ya harus transparan, trus tetep pada core-nya itu apa. Kita mau customer focus, kita mau tetep menyediakan yang terbaik buat team business kita. Jadi lebih fokus sama core dan over-communicate yang pasti.
 
-**G:** I see. Jadi, meskipun produknya berbeda tapi mesti tetep terjaga ya core-nya gitu. 
+**G:** I see. Jadi, meskipun produknya berbeda tapi mesti tetep terjaga ya core-nya gitu.
 
-**A:** Iya. Terjaga core-nya, saling komunikasi, trus saling transparan sih, apa yang mereka nemuin kesulitan. 
+**A:** Iya. Terjaga core-nya, saling komunikasi, trus saling transparan sih, apa yang mereka nemuin kesulitan.
 
 **K:** Kalo team-nya sendiri terdiri dari siapa aja sih, kak? Mungkin ada researcher, ada UI/UX designer, masuk situ juga berarti kan?
 
-**A:** Kalo researcher sih sekarang belum masuk tim aku, ya. Dia itu tim terpisah. Jadi kalau lagi dibutuhkan, diambil, gitu. Kita juga lagi cari tuh, researcher. Lumayan banyak yang dicari, ya. Kalau sekarang di tim aku sendiri ada UI designer yang spesifik ke UI, trus ada generalist jadi UI/UX, dan UX writer. Tapi aku sendiri masih bantu crafting di beberapa hal kaya research, UI juga. Belum ideal, tapi begitulah. 
+**A:** Kalo researcher sih sekarang belum masuk tim aku, ya. Dia itu tim terpisah. Jadi kalau lagi dibutuhkan, diambil, gitu. Kita juga lagi cari tuh, researcher. Lumayan banyak yang dicari, ya. Kalau sekarang di tim aku sendiri ada UI designer yang spesifik ke UI, trus ada generalist jadi UI/UX, dan UX writer. Tapi aku sendiri masih bantu crafting di beberapa hal kaya research, UI juga. Belum ideal, tapi begitulah.
 
-**K:** Tapi mungkin itu juga kali, ya. Karena kak Auli juga lagi butuh banyak tambahan, itu juga yang mungkin akhirnya dorong kak Auli bikin thread di Twitter tentang UX writer kali, ya? 
+**K:** Tapi mungkin itu juga kali, ya. Karena kak Auli juga lagi butuh banyak tambahan, itu juga yang mungkin akhirnya dorong kak Auli bikin thread di Twitter tentang UX writer kali, ya?
 
-**A:** Iya, bisa juga. 
+**A:** Iya, bisa juga.
 
 **K:** Jadi itu juga bisa dibilang dateng dari concern pribadi ya, karena emang masih jarang yang punya keahlian itu. Atau gimana, sih?
 
-**A:** Jadi gini. Waktu itu, aku tuh ngambil cuti seminggu pas abis lebaran. Di cuti seminggu yang nggak ngapa-ngapain di rumah, itu, itu tuh lagi mikirin, tim ini tuh enaknya dibawa kemana, ya? Karena satu UX writer, tapi yang dikerjain banyak banget, maintain styleguide-nya, trus harus nge-supervise temen-temen yang lain, agak sulit. Sedangkan nyari UX writer sendiri tuh, masih nggak semudah kalo kita nyari UI designer, UX designer, kan banyak ya. Lebih sulit, gitu kan? Jadi yaudah iseng aja. Sebenernya itu ngga ada kaitannya sama kerjaan, sih. Iseng aja. Pengen coba nge-tweet yang ngga ada ada gunanya. Cuma iseng nge-tweet aja, eh kok, viral. Kok, ternyata banyak orang yang ngga aware bahwa ada posisi ini. Kaya, di setiap produk itu ada orang di balik layar yang nge-craft copy atau content-nya. Dan di beberapa perusahaan sih mungkin udah ada, role ini, cuma ya itu kurang awareness. Belum menonjol, lah. Padahal sebenerya kerjaannya UX writer itu ngga cuma bikin content, bikin tulisan, jadi dia tuh bener-bener bikin design dan interaksi yang ada di aplikasi atau website itu jadi ada konteksnya. Jadi, orang tuh lebih ngerti apa yang harus dilakukan. 
+**A:** Jadi gini. Waktu itu, aku tuh ngambil cuti seminggu pas abis lebaran. Di cuti seminggu yang nggak ngapa-ngapain di rumah, itu, itu tuh lagi mikirin, tim ini tuh enaknya dibawa kemana, ya? Karena satu UX writer, tapi yang dikerjain banyak banget, maintain styleguide-nya, trus harus nge-supervise temen-temen yang lain, agak sulit. Sedangkan nyari UX writer sendiri tuh, masih nggak semudah kalo kita nyari UI designer, UX designer, kan banyak ya. Lebih sulit, gitu kan? Jadi yaudah iseng aja. Sebenernya itu ngga ada kaitannya sama kerjaan, sih. Iseng aja. Pengen coba nge-tweet yang ngga ada ada gunanya. Cuma iseng nge-tweet aja, eh kok, viral. Kok, ternyata banyak orang yang ngga aware bahwa ada posisi ini. Kaya, di setiap produk itu ada orang di balik layar yang nge-craft copy atau content-nya. Dan di beberapa perusahaan sih mungkin udah ada, role ini, cuma ya itu kurang awareness. Belum menonjol, lah. Padahal sebenerya kerjaannya UX writer itu ngga cuma bikin content, bikin tulisan, jadi dia tuh bener-bener bikin design dan interaksi yang ada di aplikasi atau website itu jadi ada konteksnya. Jadi, orang tuh lebih ngerti apa yang harus dilakukan.
 
 **K:** I see. Kalau liat dari thread atau tulisan-tulisan kak Auli kan kayanya fokusnya lebih ke pivot dari role lain ke UX. Itu apakah karena dari pengalaman pribadi dulu juga yang pivot, atau emang dari disiplin ilmunya sendiri memang belum ada yang fokus kesitu?
 
-**A:** Kalau aku liat, ya. Orang yang bisa nulis tuh banyak. Tapi, orang yang tau ada role seperti ini tuh belum sebanyak itu. Makanya pengen ngasih awareness dari sudut pandang itu. Bahwa, role UX writer itu ada dan itu bisa dipelajari. Kalau kalian ada basic nulis sebenernya bisa loh, jadi UX writer, gitu. 
+**A:** Kalau aku liat, ya. Orang yang bisa nulis tuh banyak. Tapi, orang yang tau ada role seperti ini tuh belum sebanyak itu. Makanya pengen ngasih awareness dari sudut pandang itu. Bahwa, role UX writer itu ada dan itu bisa dipelajari. Kalau kalian ada basic nulis sebenernya bisa loh, jadi UX writer, gitu.
 
 **K:** Tapi sebenernya kalau UX writer itu sendiri, apa sih role nya, bikin copy kah atau dia ikut juga dalam membuat flow desain?
 
@@ -157,7 +157,7 @@ type = "transcript"
 
 **G:** Apalagi situasi lagi pandemi kaya gini ya.
 
-**A:** Sebenernya ada beberapa third-party app yang bisa dipake untuk A/B Testing, kalau  company nya mengizinkan ya.
+**A:** Sebenernya ada beberapa third-party app yang bisa dipake untuk A/B Testing, kalau company nya mengizinkan ya.
 
 **K:** Tools nya apa tuh kak?
 
@@ -175,7 +175,7 @@ type = "transcript"
 
 **A:** Tergantung padetnya gimana, Senin sampe Rabu lebih padet, jadi lebih cepet capek, lebih cepet tidur. Sekarang karena udah 4 tahun jadi ibu, itu udah nggak bisa night owl, anak malem tidur ya ikut tidur. Tidur sekitar jam 10-an, tapi kalau lagi nonton Netflix atau main PUBG bisa sampe malem. Semalem sampe jam 2 main PUBG. Dan kadang pas lagi terinspirasi pengen ngerjain sesuatu, misal bikin artikel atau ngegambar, main game aja... tergantung sih. Rata-rata nggak malem banget sih, jam 10 11an udah ilang.
 
-**K:** Masih sempet main PUBG ya, keren banget sih. Ada hobi lain ngga selain main game atau nonton Netflix? 
+**K:** Masih sempet main PUBG ya, keren banget sih. Ada hobi lain ngga selain main game atau nonton Netflix?
 
 **A:** Lagi suka masak, karena di rumah. Beli makan takut, ya akhirnya masak.
 
@@ -215,4 +215,4 @@ type = "transcript"
 
 **A:** Makasih banyak juga.
 
-**K:** Sebelum kita tutup kita mau ngucapin terima kasih buat AudioLab yang bakal bantuin kita ngedit podcast ini. Selama ini kita Kartini Teknologi kayak MVP banget gitu loh, biasanya aku yang ngedit, Galuh yang bikin transcript. Cuman ya itu kitapun nggak punya microphone yang profesional, semuanya seadanya yang kita punya. Kali ini lagi pengen nyoba untuk dibantuin sama temen untuk bikin audio yang mungkin lebih proper, let's see how it looks like. Jadi makasih juga Mas Asep dari Audiolab. Itu aja mungkin. Thank you so much udah dengerin temen-temen, dan sampai jumpa di episode selanjutnya!
+**K:** Sebelum kita tutup kita mau ngucapin terima kasih buat Odiolab yang bakal bantuin kita ngedit podcast ini. Selama ini kita Kartini Teknologi kayak MVP banget gitu loh, biasanya aku yang ngedit, Galuh yang bikin transcript. Cuman ya itu kitapun nggak punya microphone yang profesional, semuanya seadanya yang kita punya. Kali ini lagi pengen nyoba untuk dibantuin sama temen untuk bikin audio yang mungkin lebih proper, let's see how it looks like. Jadi makasih juga Mas Asep dari Odiolab. Itu aja mungkin. Thank you so much udah dengerin temen-temen, dan sampai jumpa di episode selanjutnya!
