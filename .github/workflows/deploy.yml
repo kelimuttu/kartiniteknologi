@@ -1,0 +1,45 @@
+name: Publish Site
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: home
+
+    strategy:
+        matrix:
+          node-version: [10.x]
+
+    steps:
+      - uses: actions/checkout@master
+        with:
+          submodules: true
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install dependencies
+        run: |
+          npm ci
+      - name: Publish Site
+        uses: chabad360/hugo-gh-pages@master
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          cname: kartiniteknologi.id
+          hugoVersion: extended_0.58.3
+          args: --gc --minify --cleanDestinationDir
+      - name: Caching dependencies 
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.local/share/renv
+            ~/.npm
+            **/node_modules
+          key: |
+            ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
