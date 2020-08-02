@@ -1,6 +1,6 @@
 # Kartini Teknologi
 
-Website for the Kartini Teknologi podcast.
+Website for the Kartini Teknologi podcast. https://kartiniteknologi.id/ 
 
 ## Development
 
