@@ -32,6 +32,18 @@
 {{ end }}
 {{ end }}
 
+<!-- Custom audio player -->
+{{ $audioplayer := resources.Get "scss/green-audio-player/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $audioplayer.Permalink }}">
+<style>
+    .green-audio-player{
+        width: auto;
+        height: 96px;
+        border: 1px solid #EAEAEA;
+    }
+</style>
+<!-- End of custom audio Player -->
+
 <!-- Icons -->
 {{- partial "favicons.html" }}
 
