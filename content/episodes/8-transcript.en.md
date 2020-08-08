@@ -67,7 +67,7 @@ type = "transcript"
 
 **K:** Seems like Figma is very popular for designers. What are the challenges that you've faces as an interaction designer so far?
 
-**V:** It's what I've said earlier... although you're the type of person who, let's say, communicates with your team, sometimes it's a little bit hard to delegate what you mean, especially when you don't have data atau evidence to back it up. Sometimes, in my opinion, designers have their own ego—I want it that way, I want it this way. To delegate that to other stakeholders... you're just a piece of this whole thing yang working together towards something, right. So there's a lot of compromising there. And you have to speak out your mind out loud, if that makes sense. So it's more about communication. Especially if you're working remotely, right, because  the only way you can talk to your team is through conference call like this.
+**V:** It's what I've said earlier... although you're the type of person who, let's say, communicates with your team, sometimes it's a little bit hard to delegate what you mean, especially when you don't have data atau evidence to back it up. Sometimes, in my opinion, designers have their own ego—I want it that way, I want it this way. To delegate that to other stakeholders... you're just a piece of this whole thing yang working together towards something, right. So there's a lot of compromising there. And you have to speak out your mind out loud, if that makes sense. So it's more about communication. Especially if you're working remotely, right, because the only way you can talk to your team is through conference call like this.
 
 **G:** How did you get this data to convince people or to back up your arguments?
 

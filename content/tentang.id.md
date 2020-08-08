@@ -8,6 +8,7 @@ series = ["Tentang"]
 +++
 
 ### Indonesia butuh lebih banyak perempuan di industri teknologi.
+
 Teknologi sudah semakin mendominasi kehidupan manusia. Ketika pembuat teknologi didominasi oleh kelompok tertentu, maka akan terjadi bias yang mengakibatkan ketimpangan pada produk yang dihasilkan.
 
 Kami percaya pada kebaikan yang dibawa oleh keberagaman. Melalui Kartini Teknologi, kami ingin menyemangati lebih banyak perempuan Indonesia untuk terjun ke industri teknologi. Tujuan akhirnya tentu saja untuk mengurangi kesenjangan partisipasi kaum perempuan di industri ini.
@@ -17,6 +18,7 @@ Di tiap episode, kami akan berbincang dengan sosok perempuan Indonesia inspirati
 Jika kalian ingin mengajukan saran atau mengusulkan bintang tamu, sila sampaikan melalui [team@kartiniteknologi.id](mailto:team@kartiniteknologi.id), atau media sosial kami di [Twitter](https://twitter.com/kartini_tech) dan [Instagram](http://instagram.com/kartiniteknologi).
 
 ## Berlangganan:
+
 - [Apple Podcast](https://podcasts.apple.com/us/podcast/kartini-teknologi/id1459757397?uo=4)
 - [Spotify](https://open.spotify.com/show/1vLCiFbZdvfAkcprdKbbqI?si=feQ9g3SFQQaLIJrEe5DOcQ)
 - [Anchor](https://anchor.fm/kartini-teknologi)
@@ -28,8 +30,11 @@ Jika kalian ingin mengajukan saran atau mengusulkan bintang tamu, sila sampaikan
 - [Soundcloud](https://soundcloud.com/kartiniteknologi)
 
 ## Tentang Pewara
+
 ### Kiki
+
 Kiki adalah seorang mantan programmer yang sekarang bekerja sebagai Manajer Komunitas di Mozilla. Sekarang ini Kiki bekerja remote dan tinggal di Tegal, Jawa Tengah. Kiki juga aktif menulis di [blog](https://kelimuttu.co/), dan saat ini tengah sibuk merevisi naskah buku pertamanya. Kamu juga bisa menemukannya di [Twitter](https://twitter.com/kelimuttu).
 
 ### Galuh
-Galuh adalah seorang *data scientist* yang saat ini sedang bekerja di Gojek. Apabila sedang tidak berkutat di depan laptop-nya, kemungkinan besar kamu bisa menemukannya sedang membaca atau menggambar. Kamu juga dapat membaca tulisan Galuh di blog-nya, [galuh.me](http://galuh.me) atau membaca kicauannya di [Twitter](https://twitter.com/galuhsahid).
+
+Galuh adalah seorang _data scientist_ yang saat ini sedang bekerja di Gojek. Apabila sedang tidak berkutat di depan laptop-nya, kemungkinan besar kamu bisa menemukannya sedang membaca atau menggambar. Kamu juga dapat membaca tulisan Galuh di blog-nya, [galuh.me](http://galuh.me) atau membaca kicauannya di [Twitter](https://twitter.com/galuhsahid).

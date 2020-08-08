@@ -1,6 +1,5 @@
 baseurl = "/"
 theme = "hello-friend-ng"
-publishDir = "docs"
 
 DefaultContentLanguage = "id"
 
