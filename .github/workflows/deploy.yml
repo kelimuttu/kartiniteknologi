@@ -28,6 +28,7 @@ jobs:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           cname: kartiniteknologi.id
           hugoVersion: extended_0.55.0
+          args: --minify --cleanDestinationDir
       - name: Caching dependencies 
         uses: actions/cache@v2
         with:
