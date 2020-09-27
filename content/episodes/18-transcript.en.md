@@ -101,7 +101,7 @@ type = "transcript"
 
 **G:** In Python, you don't have to write the type. And yeah sometimes there are bugs because what the function expects vs the input and the output can be different because we don't type it. But in Python there's a library that we can import if you want to type it, but it's not mandatory. Okay, when entering the world of functional programming there must be a lot of new concepts right, like immutability which might not exist in... what is it, the opposite of functional programming, OOP?
 
-**D:** I'm not an expert yet, maybe procedural? 
+**D:** I'm not an expert yet, maybe procedural?
 
 **G:** Procedural? I've learned about it in college but I don't remember. [Laughs]
 
