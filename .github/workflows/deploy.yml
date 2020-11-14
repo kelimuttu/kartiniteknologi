@@ -23,7 +23,7 @@ jobs:
         run: |
           npm ci
       - name: Publish Site
-        uses: chabad360/hugo-gh-pages@master
+        uses: chabad360/hugo-gh-pages@771cd2231a
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           cname: kartiniteknologi.id
